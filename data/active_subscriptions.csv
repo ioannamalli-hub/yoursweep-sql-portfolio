@@ -1,0 +1,1942 @@
+store,date,plan,offer,country,active_total,active_paid,active_free_trial
+apple,2026-05-27,annual,,US,1,1,0
+apple,2026-05-28,annual,,US,1,1,0
+apple,2026-05-29,annual,,US,1,1,0
+apple,2026-05-30,annual,,US,1,1,0
+apple,2026-05-30,monthly,,US,1,1,0
+apple,2026-05-31,annual,,US,1,1,0
+apple,2026-05-31,monthly,,US,1,1,0
+apple,2026-06-01,annual,,US,1,1,0
+apple,2026-06-01,monthly,,US,1,1,0
+apple,2026-06-01,monthly,One Month,TW,1,0,1
+apple,2026-06-01,monthly,One Month,US,1,0,1
+apple,2026-06-02,annual,,US,1,1,0
+apple,2026-06-02,monthly,,US,2,2,0
+apple,2026-06-02,monthly,One Month,TW,1,0,1
+apple,2026-06-02,monthly,One Month,US,1,0,1
+apple,2026-06-03,annual,,US,1,1,0
+apple,2026-06-03,monthly,,US,2,2,0
+apple,2026-06-03,monthly,One Month,TW,1,0,1
+apple,2026-06-03,monthly,One Month,US,1,0,1
+apple,2026-06-04,annual,,US,1,1,0
+apple,2026-06-04,monthly,,US,2,2,0
+apple,2026-06-04,monthly,One Month,TW,1,0,1
+apple,2026-06-04,monthly,One Month,US,1,0,1
+apple,2026-06-05,annual,,US,1,1,0
+apple,2026-06-05,monthly,,US,2,2,0
+apple,2026-06-05,monthly,One Month,TW,1,0,1
+apple,2026-06-05,monthly,One Month,US,1,0,1
+apple,2026-06-06,annual,,US,1,1,0
+apple,2026-06-06,monthly,,US,2,2,0
+apple,2026-06-06,monthly,One Month,TW,1,0,1
+apple,2026-06-06,monthly,One Month,US,1,0,1
+apple,2026-06-07,annual,,US,1,1,0
+apple,2026-06-07,monthly,,US,3,3,0
+apple,2026-06-07,monthly,One Month,TW,1,0,1
+apple,2026-06-07,monthly,One Month,US,1,0,1
+apple,2026-06-08,annual,,US,1,1,0
+apple,2026-06-08,monthly,,US,3,3,0
+apple,2026-06-09,annual,,US,1,1,0
+apple,2026-06-09,monthly,,US,3,3,0
+apple,2026-06-09,monthly,One Month,US,1,0,1
+apple,2026-06-10,annual,,US,1,1,0
+apple,2026-06-10,monthly,,US,3,3,0
+apple,2026-06-10,monthly,One Month,US,1,0,1
+apple,2026-06-10,monthly,One Month,FR,1,0,1
+apple,2026-06-11,annual,,US,1,1,0
+apple,2026-06-11,monthly,,US,3,3,0
+apple,2026-06-11,monthly,One Month,US,1,0,1
+apple,2026-06-11,monthly,One Month,FR,1,0,1
+apple,2026-06-12,annual,,US,1,1,0
+apple,2026-06-12,monthly,,US,3,3,0
+apple,2026-06-12,monthly,One Month,US,1,0,1
+apple,2026-06-12,monthly,One Month,FR,1,0,1
+apple,2026-06-13,annual,,US,1,1,0
+apple,2026-06-13,monthly,,US,3,3,0
+apple,2026-06-13,monthly,One Month,US,1,0,1
+apple,2026-06-13,monthly,One Month,FR,1,0,1
+apple,2026-06-14,annual,,US,2,2,0
+apple,2026-06-14,monthly,,US,3,3,0
+apple,2026-06-14,monthly,One Month,US,1,0,1
+apple,2026-06-14,monthly,One Month,FR,1,0,1
+apple,2026-06-14,monthly,One Month,CA,1,0,1
+apple,2026-06-15,annual,,US,2,2,0
+apple,2026-06-15,monthly,,US,3,3,0
+apple,2026-06-15,monthly,One Month,US,1,0,1
+apple,2026-06-15,monthly,One Month,FR,1,0,1
+apple,2026-06-15,monthly,One Month,CA,1,0,1
+apple,2026-06-16,annual,,US,2,2,0
+apple,2026-06-16,monthly,,US,3,3,0
+apple,2026-06-16,monthly,One Month,FR,1,0,1
+apple,2026-06-16,monthly,One Month,CA,1,0,1
+apple,2026-06-16,monthly,,SE,1,1,0
+apple,2026-06-17,annual,,US,2,2,0
+apple,2026-06-17,monthly,,US,3,3,0
+apple,2026-06-17,monthly,One Month,FR,1,1,0
+apple,2026-06-17,monthly,One Month,CA,1,0,1
+apple,2026-06-17,monthly,,SE,1,1,0
+apple,2026-06-17,monthly,One Month,US,1,0,1
+apple,2026-06-18,annual,,US,2,2,0
+apple,2026-06-18,monthly,,US,3,3,0
+apple,2026-06-18,monthly,One Month,FR,1,1,0
+apple,2026-06-18,monthly,One Month,CA,1,0,1
+apple,2026-06-18,monthly,,SE,1,1,0
+apple,2026-06-18,monthly,One Month,US,2,0,2
+apple,2026-06-19,annual,,US,2,2,0
+apple,2026-06-19,monthly,,US,3,3,0
+apple,2026-06-19,monthly,One Month,FR,1,1,0
+apple,2026-06-19,monthly,One Month,CA,1,0,1
+apple,2026-06-19,monthly,,SE,1,1,0
+apple,2026-06-19,monthly,One Month,US,2,0,2
+apple,2026-06-20,annual,,US,2,2,0
+apple,2026-06-20,monthly,,US,3,3,0
+apple,2026-06-20,monthly,One Month,FR,1,1,0
+apple,2026-06-20,monthly,One Month,CA,1,0,1
+apple,2026-06-20,monthly,,SE,1,1,0
+apple,2026-06-20,monthly,One Month,US,2,0,2
+apple,2026-06-20,annual,,GB,1,1,0
+apple,2026-06-21,annual,,US,2,2,0
+apple,2026-06-21,monthly,,US,3,3,0
+apple,2026-06-21,monthly,One Month,FR,1,1,0
+apple,2026-06-21,monthly,,SE,1,1,0
+apple,2026-06-21,monthly,One Month,US,2,0,2
+apple,2026-06-21,annual,,GB,1,1,0
+apple,2026-06-22,annual,,US,2,2,0
+apple,2026-06-22,monthly,,US,3,3,0
+apple,2026-06-22,monthly,One Month,FR,1,1,0
+apple,2026-06-22,monthly,,SE,1,1,0
+apple,2026-06-22,monthly,One Month,US,2,0,2
+apple,2026-06-22,annual,,GB,1,1,0
+apple,2026-06-23,annual,,US,2,2,0
+apple,2026-06-23,monthly,,US,3,3,0
+apple,2026-06-23,monthly,One Month,FR,1,1,0
+apple,2026-06-23,monthly,,SE,1,1,0
+apple,2026-06-23,monthly,One Month,US,2,0,2
+apple,2026-06-23,annual,,GB,1,1,0
+apple,2026-06-24,annual,,US,3,3,0
+apple,2026-06-24,monthly,,US,3,3,0
+apple,2026-06-24,monthly,One Month,FR,1,1,0
+apple,2026-06-24,monthly,,SE,1,1,0
+apple,2026-06-24,monthly,One Month,US,1,0,1
+apple,2026-06-24,annual,,GB,1,1,0
+apple,2026-06-25,annual,,US,3,3,0
+apple,2026-06-25,monthly,,US,3,3,0
+apple,2026-06-25,monthly,One Month,FR,1,1,0
+apple,2026-06-25,monthly,,SE,1,1,0
+apple,2026-06-25,annual,,GB,1,1,0
+apple,2026-06-26,annual,,US,3,3,0
+apple,2026-06-26,monthly,,US,3,3,0
+apple,2026-06-26,monthly,One Month,FR,1,1,0
+apple,2026-06-26,monthly,,SE,1,1,0
+apple,2026-06-26,annual,,GB,1,1,0
+apple,2026-06-27,annual,,US,3,3,0
+apple,2026-06-27,monthly,,US,3,3,0
+apple,2026-06-27,monthly,One Month,FR,1,1,0
+apple,2026-06-27,monthly,,SE,1,1,0
+apple,2026-06-27,annual,,GB,1,1,0
+apple,2026-06-28,annual,,US,3,3,0
+apple,2026-06-28,monthly,,US,3,3,0
+apple,2026-06-28,monthly,One Month,FR,1,1,0
+apple,2026-06-28,monthly,,SE,1,1,0
+apple,2026-06-28,annual,,GB,1,1,0
+apple,2026-06-29,annual,,US,3,3,0
+apple,2026-06-29,monthly,,US,3,3,0
+apple,2026-06-29,monthly,One Month,FR,1,1,0
+apple,2026-06-29,monthly,,SE,1,1,0
+apple,2026-06-29,annual,,GB,1,1,0
+apple,2026-06-30,annual,,US,3,3,0
+apple,2026-06-30,monthly,,US,3,3,0
+apple,2026-06-30,monthly,One Month,FR,1,1,0
+apple,2026-06-30,monthly,,SE,1,1,0
+apple,2026-06-30,annual,,GB,1,1,0
+apple,2026-06-30,monthly,One Month,US,1,0,1
+apple,2026-07-01,annual,,US,3,3,0
+apple,2026-07-01,monthly,,US,3,3,0
+apple,2026-07-01,monthly,One Month,FR,1,1,0
+apple,2026-07-01,monthly,,SE,1,1,0
+apple,2026-07-01,annual,,GB,1,1,0
+apple,2026-07-01,monthly,One Month,US,1,0,1
+apple,2026-07-02,annual,,US,3,3,0
+apple,2026-07-02,monthly,,US,3,3,0
+apple,2026-07-02,monthly,One Month,FR,1,1,0
+apple,2026-07-02,monthly,,SE,1,1,0
+apple,2026-07-02,annual,,GB,1,1,0
+apple,2026-07-02,monthly,One Month,US,1,0,1
+apple,2026-07-03,annual,,US,3,3,0
+apple,2026-07-03,monthly,,US,3,3,0
+apple,2026-07-03,monthly,One Month,FR,1,1,0
+apple,2026-07-03,monthly,,SE,1,1,0
+apple,2026-07-03,annual,,GB,1,1,0
+apple,2026-07-03,monthly,One Month,US,1,0,1
+apple,2026-07-04,annual,,US,3,3,0
+apple,2026-07-04,monthly,,US,3,3,0
+apple,2026-07-04,monthly,One Month,FR,1,1,0
+apple,2026-07-04,monthly,,SE,1,1,0
+apple,2026-07-04,annual,,GB,1,1,0
+apple,2026-07-04,monthly,One Month,US,2,0,2
+apple,2026-07-05,annual,,US,3,3,0
+apple,2026-07-05,monthly,,US,3,3,0
+apple,2026-07-05,monthly,One Month,FR,1,1,0
+apple,2026-07-05,monthly,,SE,1,1,0
+apple,2026-07-05,annual,,GB,1,1,0
+apple,2026-07-05,monthly,One Month,US,2,0,2
+apple,2026-07-06,annual,,US,3,3,0
+apple,2026-07-06,monthly,,US,3,3,0
+apple,2026-07-06,monthly,One Month,FR,1,1,0
+apple,2026-07-06,monthly,,SE,1,1,0
+apple,2026-07-06,annual,,GB,1,1,0
+apple,2026-07-06,monthly,One Month,US,2,0,2
+apple,2026-07-07,annual,,US,3,3,0
+apple,2026-07-07,monthly,,US,2,2,0
+apple,2026-07-07,monthly,One Month,FR,1,1,0
+apple,2026-07-07,monthly,,SE,1,1,0
+apple,2026-07-07,annual,,GB,1,1,0
+apple,2026-07-07,monthly,One Month,US,2,1,1
+apple,2026-07-08,annual,,US,3,3,0
+apple,2026-07-08,monthly,,US,3,3,0
+apple,2026-07-08,monthly,One Month,FR,1,1,0
+apple,2026-07-08,monthly,,SE,1,1,0
+apple,2026-07-08,annual,,GB,1,1,0
+apple,2026-07-08,monthly,One Month,US,2,1,1
+apple,2026-07-09,annual,,US,3,3,0
+apple,2026-07-09,monthly,,US,3,3,0
+apple,2026-07-09,monthly,One Month,FR,1,1,0
+apple,2026-07-09,monthly,,SE,1,1,0
+apple,2026-07-09,annual,,GB,1,1,0
+apple,2026-07-09,monthly,One Month,US,2,1,1
+apple,2026-07-10,annual,,US,4,4,0
+apple,2026-07-10,monthly,,US,3,3,0
+apple,2026-07-10,monthly,One Month,FR,1,1,0
+apple,2026-07-10,monthly,,SE,1,1,0
+apple,2026-07-10,annual,,GB,1,1,0
+apple,2026-07-10,monthly,One Month,US,2,1,1
+apple,2026-07-11,annual,,US,4,4,0
+apple,2026-07-11,monthly,,US,3,3,0
+apple,2026-07-11,monthly,One Month,FR,1,1,0
+apple,2026-07-11,monthly,,SE,1,1,0
+apple,2026-07-11,annual,,GB,1,1,0
+apple,2026-07-11,monthly,One Month,US,1,1,0
+apple,2026-07-12,annual,,US,5,5,0
+apple,2026-07-12,monthly,,US,3,3,0
+apple,2026-07-12,monthly,One Month,FR,1,1,0
+apple,2026-07-12,monthly,,SE,1,1,0
+apple,2026-07-12,annual,,GB,1,1,0
+apple,2026-07-12,monthly,One Month,US,1,1,0
+apple,2026-07-13,annual,,US,5,5,0
+apple,2026-07-13,monthly,,US,3,3,0
+apple,2026-07-13,monthly,One Month,FR,1,1,0
+apple,2026-07-13,monthly,,SE,1,1,0
+apple,2026-07-13,annual,,GB,1,1,0
+apple,2026-07-13,monthly,One Month,US,1,1,0
+apple,2026-07-14,annual,,US,5,5,0
+apple,2026-07-14,monthly,,US,3,3,0
+apple,2026-07-14,monthly,One Month,FR,1,1,0
+apple,2026-07-14,monthly,,SE,1,1,0
+apple,2026-07-14,annual,,GB,1,1,0
+apple,2026-07-14,monthly,One Month,US,1,1,0
+apple,2026-07-15,annual,,US,5,5,0
+apple,2026-07-15,monthly,,US,3,3,0
+apple,2026-07-15,monthly,One Month,FR,1,1,0
+apple,2026-07-15,monthly,,SE,1,1,0
+apple,2026-07-15,annual,,GB,1,1,0
+apple,2026-07-15,monthly,One Month,US,1,1,0
+apple,2026-07-16,annual,,US,6,6,0
+apple,2026-07-16,monthly,,US,3,3,0
+apple,2026-07-16,monthly,One Month,FR,1,1,0
+apple,2026-07-16,annual,,GB,1,1,0
+apple,2026-07-16,monthly,One Month,US,1,1,0
+apple,2026-07-17,annual,,US,6,6,0
+apple,2026-07-17,monthly,,US,3,3,0
+apple,2026-07-17,monthly,One Month,FR,1,1,0
+apple,2026-07-17,annual,,GB,1,1,0
+apple,2026-07-17,monthly,One Month,US,1,1,0
+apple,2026-07-18,annual,,US,7,7,0
+apple,2026-07-18,monthly,,US,3,3,0
+apple,2026-07-18,monthly,One Month,FR,1,1,0
+apple,2026-07-18,annual,,GB,1,1,0
+apple,2026-07-18,monthly,One Month,US,1,1,0
+apple,2026-07-19,annual,,US,7,7,0
+apple,2026-07-19,monthly,,US,3,3,0
+apple,2026-07-19,monthly,One Month,FR,1,1,0
+apple,2026-07-19,annual,,GB,1,1,0
+apple,2026-07-19,monthly,One Month,US,1,1,0
+apple,2026-07-20,annual,,US,7,7,0
+apple,2026-07-20,monthly,,US,4,4,0
+apple,2026-07-20,monthly,One Month,FR,1,1,0
+apple,2026-07-20,annual,,GB,1,1,0
+apple,2026-07-20,monthly,One Month,US,1,1,0
+apple,2026-07-21,annual,,US,7,7,0
+apple,2026-07-21,monthly,,US,4,4,0
+apple,2026-07-21,monthly,One Month,FR,1,1,0
+apple,2026-07-21,annual,,GB,1,1,0
+apple,2026-07-21,monthly,One Month,US,1,1,0
+apple,2026-07-22,annual,,US,7,7,0
+apple,2026-07-22,monthly,,US,4,4,0
+apple,2026-07-22,monthly,One Month,FR,1,1,0
+apple,2026-07-22,annual,,GB,1,1,0
+apple,2026-07-22,monthly,One Month,US,1,1,0
+apple,2026-07-23,annual,,US,7,7,0
+apple,2026-07-23,monthly,,US,4,4,0
+apple,2026-07-23,monthly,One Month,FR,1,1,0
+apple,2026-07-23,annual,,GB,1,1,0
+apple,2026-07-23,monthly,One Month,US,1,1,0
+apple,2026-07-24,annual,,US,7,7,0
+apple,2026-07-24,monthly,,US,4,4,0
+apple,2026-07-24,monthly,One Month,FR,1,1,0
+apple,2026-07-24,annual,,GB,1,1,0
+apple,2026-07-24,monthly,One Month,US,1,1,0
+apple,2026-07-25,annual,,US,7,7,0
+apple,2026-07-25,monthly,,US,4,4,0
+apple,2026-07-25,monthly,One Month,FR,1,1,0
+apple,2026-07-25,annual,,GB,1,1,0
+apple,2026-07-25,monthly,One Month,US,1,1,0
+apple,2026-07-26,annual,,US,7,7,0
+apple,2026-07-26,monthly,,US,4,4,0
+apple,2026-07-26,monthly,One Month,FR,1,1,0
+apple,2026-07-26,annual,,GB,1,1,0
+apple,2026-07-26,monthly,One Month,US,1,1,0
+apple,2026-07-26,annual,,SE,1,1,0
+apple,2026-07-26,monthly,One Month,SE,1,0,1
+apple,2026-07-27,annual,,US,7,7,0
+apple,2026-07-27,monthly,,US,4,4,0
+apple,2026-07-27,monthly,One Month,FR,1,1,0
+apple,2026-07-27,annual,,GB,1,1,0
+apple,2026-07-27,monthly,One Month,US,1,1,0
+apple,2026-07-27,annual,,SE,1,1,0
+apple,2026-07-27,monthly,One Month,SE,1,0,1
+apple,2026-07-28,annual,,US,7,7,0
+apple,2026-07-28,monthly,One Month,FR,1,1,0
+apple,2026-07-28,annual,,GB,1,1,0
+apple,2026-07-28,monthly,One Month,US,1,1,0
+apple,2026-07-28,monthly,,US,3,3,0
+apple,2026-07-28,annual,,SE,1,1,0
+apple,2026-07-28,monthly,One Month,SE,1,0,1
+apple,2026-07-29,annual,,US,7,7,0
+apple,2026-07-29,monthly,One Month,FR,1,1,0
+apple,2026-07-29,annual,,GB,1,1,0
+apple,2026-07-29,monthly,One Month,US,1,1,0
+apple,2026-07-29,monthly,,US,3,3,0
+apple,2026-07-29,annual,,SE,1,1,0
+apple,2026-07-29,monthly,One Month,SE,1,0,1
+apple,2026-07-30,annual,,US,7,7,0
+apple,2026-07-30,monthly,One Month,FR,1,1,0
+apple,2026-07-30,annual,,GB,1,1,0
+apple,2026-07-30,monthly,One Month,US,1,1,0
+apple,2026-07-30,monthly,,US,3,3,0
+apple,2026-07-30,annual,,SE,1,1,0
+apple,2026-07-30,monthly,One Month,SE,1,0,1
+apple,2026-07-31,annual,,US,7,7,0
+apple,2026-07-31,monthly,One Month,FR,1,1,0
+apple,2026-07-31,annual,,GB,1,1,0
+apple,2026-07-31,monthly,One Month,US,1,1,0
+apple,2026-07-31,monthly,,US,3,3,0
+apple,2026-07-31,annual,,SE,1,1,0
+apple,2026-07-31,monthly,One Month,SE,1,0,1
+apple,2026-08-01,annual,,US,7,7,0
+apple,2026-08-01,monthly,One Month,FR,1,1,0
+apple,2026-08-01,annual,,GB,1,1,0
+apple,2026-08-01,monthly,One Month,US,1,1,0
+apple,2026-08-01,monthly,,US,3,3,0
+apple,2026-08-01,annual,,SE,1,1,0
+apple,2026-08-01,monthly,One Month,SE,1,0,1
+apple,2026-08-02,annual,,US,7,7,0
+apple,2026-08-02,monthly,One Month,FR,1,1,0
+apple,2026-08-02,annual,,GB,1,1,0
+apple,2026-08-02,monthly,One Month,US,1,1,0
+apple,2026-08-02,monthly,,US,3,3,0
+apple,2026-08-02,annual,,SE,1,1,0
+apple,2026-08-03,annual,,US,7,7,0
+apple,2026-08-03,monthly,One Month,FR,1,1,0
+apple,2026-08-03,annual,,GB,1,1,0
+apple,2026-08-03,monthly,One Month,US,1,1,0
+apple,2026-08-03,monthly,,US,3,3,0
+apple,2026-08-03,annual,,SE,1,1,0
+apple,2026-08-04,annual,,US,7,7,0
+apple,2026-08-04,monthly,One Month,FR,1,1,0
+apple,2026-08-04,annual,,GB,1,1,0
+apple,2026-08-04,monthly,One Month,US,1,1,0
+apple,2026-08-04,monthly,,US,3,3,0
+apple,2026-08-04,annual,,SE,1,1,0
+apple,2026-08-05,annual,,US,7,7,0
+apple,2026-08-05,monthly,One Month,FR,1,1,0
+apple,2026-08-05,annual,,GB,1,1,0
+apple,2026-08-05,monthly,One Month,US,1,1,0
+apple,2026-08-05,monthly,,US,3,3,0
+apple,2026-08-05,annual,,SE,1,1,0
+apple,2026-08-06,annual,,US,7,7,0
+apple,2026-08-06,monthly,One Month,FR,1,1,0
+apple,2026-08-06,annual,,GB,1,1,0
+apple,2026-08-06,monthly,One Month,US,1,1,0
+apple,2026-08-06,monthly,,US,3,3,0
+apple,2026-08-06,annual,,SE,1,1,0
+apple,2026-08-07,annual,,US,8,8,0
+apple,2026-08-07,monthly,One Month,FR,1,1,0
+apple,2026-08-07,annual,,GB,1,1,0
+apple,2026-08-07,monthly,One Month,US,1,1,0
+apple,2026-08-07,monthly,,US,3,3,0
+apple,2026-08-07,annual,,SE,1,1,0
+apple,2026-08-08,annual,,US,8,8,0
+apple,2026-08-08,monthly,One Month,FR,1,1,0
+apple,2026-08-08,annual,,GB,1,1,0
+apple,2026-08-08,monthly,One Month,US,1,1,0
+apple,2026-08-08,monthly,,US,2,2,0
+apple,2026-08-08,annual,,SE,1,1,0
+apple,2026-08-09,annual,,US,8,8,0
+apple,2026-08-09,monthly,One Month,FR,1,1,0
+apple,2026-08-09,annual,,GB,1,1,0
+apple,2026-08-09,monthly,One Month,US,1,1,0
+apple,2026-08-09,monthly,,US,2,2,0
+apple,2026-08-09,annual,,SE,1,1,0
+apple,2026-08-10,annual,,US,8,8,0
+apple,2026-08-10,monthly,One Month,FR,1,1,0
+apple,2026-08-10,annual,,GB,1,1,0
+apple,2026-08-10,monthly,One Month,US,1,1,0
+apple,2026-08-10,monthly,,US,2,2,0
+apple,2026-08-10,annual,,SE,1,1,0
+apple,2026-08-11,annual,,US,8,8,0
+apple,2026-08-11,monthly,One Month,FR,1,1,0
+apple,2026-08-11,annual,,GB,1,1,0
+apple,2026-08-11,monthly,One Month,US,3,1,2
+apple,2026-08-11,monthly,,US,2,2,0
+apple,2026-08-11,annual,,SE,1,1,0
+apple,2026-08-12,annual,,US,8,8,0
+apple,2026-08-12,monthly,One Month,FR,1,1,0
+apple,2026-08-12,annual,,GB,1,1,0
+apple,2026-08-12,monthly,One Month,US,3,1,2
+apple,2026-08-12,monthly,,US,2,2,0
+apple,2026-08-12,annual,,SE,1,1,0
+apple,2026-08-13,annual,,US,8,8,0
+apple,2026-08-13,monthly,One Month,FR,1,1,0
+apple,2026-08-13,annual,,GB,1,1,0
+apple,2026-08-13,monthly,One Month,US,3,1,2
+apple,2026-08-13,monthly,,US,2,2,0
+apple,2026-08-13,annual,,SE,1,1,0
+apple,2026-08-14,annual,,US,8,8,0
+apple,2026-08-14,monthly,One Month,FR,1,1,0
+apple,2026-08-14,annual,,GB,1,1,0
+apple,2026-08-14,monthly,One Month,US,3,1,2
+apple,2026-08-14,monthly,,US,2,2,0
+apple,2026-08-14,annual,,SE,1,1,0
+apple,2026-08-15,annual,,US,8,8,0
+apple,2026-08-15,monthly,One Month,FR,1,1,0
+apple,2026-08-15,annual,,GB,1,1,0
+apple,2026-08-15,monthly,One Month,US,4,1,3
+apple,2026-08-15,monthly,,US,2,2,0
+apple,2026-08-15,annual,,SE,1,1,0
+apple,2026-08-16,annual,,US,8,8,0
+apple,2026-08-16,monthly,One Month,FR,1,1,0
+apple,2026-08-16,annual,,GB,1,1,0
+apple,2026-08-16,monthly,One Month,US,4,1,3
+apple,2026-08-16,monthly,,US,2,2,0
+apple,2026-08-16,annual,,SE,1,1,0
+apple,2026-08-17,annual,,US,8,8,0
+apple,2026-08-17,annual,,GB,1,1,0
+apple,2026-08-17,monthly,One Month,US,4,1,3
+apple,2026-08-17,monthly,,US,2,2,0
+apple,2026-08-17,annual,,SE,1,1,0
+apple,2026-08-18,annual,,US,8,8,0
+apple,2026-08-18,annual,,GB,1,1,0
+apple,2026-08-18,monthly,One Month,US,2,1,1
+apple,2026-08-18,monthly,,US,2,2,0
+apple,2026-08-18,annual,,SE,1,1,0
+apple,2026-08-19,annual,,US,8,8,0
+apple,2026-08-19,annual,,GB,1,1,0
+apple,2026-08-19,monthly,One Month,US,2,1,1
+apple,2026-08-19,monthly,,US,2,2,0
+apple,2026-08-19,annual,,SE,1,1,0
+apple,2026-08-20,annual,,US,8,8,0
+apple,2026-08-20,annual,,GB,1,1,0
+apple,2026-08-20,monthly,One Month,US,2,1,1
+apple,2026-08-20,monthly,,US,2,2,0
+apple,2026-08-20,annual,,SE,1,1,0
+apple,2026-08-21,annual,,US,8,8,0
+apple,2026-08-21,annual,,GB,1,1,0
+apple,2026-08-21,monthly,One Month,US,2,1,1
+apple,2026-08-21,monthly,,US,2,2,0
+apple,2026-08-21,annual,,SE,1,1,0
+apple,2026-08-22,annual,,US,8,8,0
+apple,2026-08-22,annual,,GB,1,1,0
+apple,2026-08-22,monthly,One Month,US,3,2,1
+apple,2026-08-22,monthly,,US,2,2,0
+apple,2026-08-22,annual,,SE,1,1,0
+apple,2026-08-23,annual,,US,8,8,0
+apple,2026-08-23,annual,,GB,1,1,0
+apple,2026-08-23,monthly,One Month,US,3,2,1
+apple,2026-08-23,monthly,,US,2,2,0
+apple,2026-08-23,annual,,SE,1,1,0
+apple,2026-08-24,annual,,US,8,8,0
+apple,2026-08-24,annual,,GB,1,1,0
+apple,2026-08-24,monthly,One Month,US,4,2,2
+apple,2026-08-24,monthly,,US,2,2,0
+apple,2026-08-24,annual,,SE,1,1,0
+apple,2026-08-25,annual,,US,8,8,0
+apple,2026-08-25,annual,,GB,1,1,0
+apple,2026-08-25,monthly,One Month,US,4,2,2
+apple,2026-08-25,monthly,,US,2,2,0
+apple,2026-08-25,annual,,SE,1,1,0
+apple,2026-08-26,annual,,US,8,8,0
+apple,2026-08-26,annual,,GB,1,1,0
+apple,2026-08-26,monthly,One Month,US,4,2,2
+apple,2026-08-26,monthly,,US,2,2,0
+apple,2026-08-26,annual,,SE,1,1,0
+apple,2026-08-27,annual,,US,8,8,0
+apple,2026-08-27,annual,,GB,1,1,0
+apple,2026-08-27,monthly,One Month,US,4,2,2
+apple,2026-08-27,monthly,,US,2,2,0
+apple,2026-08-27,annual,,SE,1,1,0
+apple,2026-08-28,annual,,US,8,8,0
+apple,2026-08-28,annual,,GB,1,1,0
+apple,2026-08-28,monthly,One Month,US,4,2,2
+apple,2026-08-28,monthly,,US,2,2,0
+apple,2026-08-28,annual,,SE,1,1,0
+apple,2026-08-29,annual,,US,8,8,0
+apple,2026-08-29,annual,,GB,1,1,0
+apple,2026-08-29,monthly,One Month,US,3,2,1
+apple,2026-08-29,monthly,,US,2,2,0
+apple,2026-08-29,annual,,SE,1,1,0
+apple,2026-08-30,annual,,US,8,8,0
+apple,2026-08-30,annual,,GB,1,1,0
+apple,2026-08-30,monthly,One Month,US,3,2,1
+apple,2026-08-30,monthly,,US,2,2,0
+apple,2026-08-30,annual,,SE,1,1,0
+apple,2026-08-31,annual,,US,8,8,0
+apple,2026-08-31,annual,,GB,1,1,0
+apple,2026-08-31,monthly,One Month,US,2,2,0
+apple,2026-08-31,monthly,,US,2,2,0
+apple,2026-08-31,annual,,SE,1,1,0
+apple,2026-09-01,annual,,US,8,8,0
+apple,2026-09-01,annual,,GB,1,1,0
+apple,2026-09-01,monthly,One Month,US,2,2,0
+apple,2026-09-01,monthly,,US,2,2,0
+apple,2026-09-01,annual,,SE,1,1,0
+apple,2026-09-02,annual,,US,8,8,0
+apple,2026-09-02,annual,,GB,1,1,0
+apple,2026-09-02,monthly,One Month,US,2,2,0
+apple,2026-09-02,monthly,,US,2,2,0
+apple,2026-09-02,annual,,SE,1,1,0
+apple,2026-09-03,annual,,US,8,8,0
+apple,2026-09-03,annual,,GB,1,1,0
+apple,2026-09-03,monthly,One Month,US,2,2,0
+apple,2026-09-03,monthly,,US,2,2,0
+apple,2026-09-03,annual,,SE,1,1,0
+apple,2026-09-04,annual,,US,8,8,0
+apple,2026-09-04,annual,,GB,1,1,0
+apple,2026-09-04,monthly,One Month,US,2,2,0
+apple,2026-09-04,monthly,,US,2,2,0
+apple,2026-09-04,annual,,SE,1,1,0
+apple,2026-09-05,annual,,US,8,8,0
+apple,2026-09-05,annual,,GB,1,1,0
+apple,2026-09-05,monthly,One Month,US,2,2,0
+apple,2026-09-05,monthly,,US,2,2,0
+apple,2026-09-05,annual,,SE,1,1,0
+apple,2026-09-06,annual,,US,8,8,0
+apple,2026-09-06,annual,,GB,1,1,0
+apple,2026-09-06,monthly,One Month,US,2,2,0
+apple,2026-09-06,monthly,,US,2,2,0
+apple,2026-09-06,annual,,SE,1,1,0
+apple,2026-09-07,annual,,US,8,8,0
+apple,2026-09-07,annual,,GB,1,1,0
+apple,2026-09-07,monthly,One Month,US,2,2,0
+apple,2026-09-07,monthly,,US,2,2,0
+apple,2026-09-07,annual,,SE,1,1,0
+apple,2026-09-08,annual,,US,8,8,0
+apple,2026-09-08,annual,,GB,1,1,0
+apple,2026-09-08,monthly,One Month,US,2,2,0
+apple,2026-09-08,monthly,,US,2,2,0
+apple,2026-09-08,annual,,SE,1,1,0
+apple,2026-09-09,annual,,US,8,8,0
+apple,2026-09-09,annual,,GB,1,1,0
+apple,2026-09-09,monthly,One Month,US,2,2,0
+apple,2026-09-09,monthly,,US,2,2,0
+apple,2026-09-09,annual,,SE,1,1,0
+apple,2026-09-10,annual,,US,8,8,0
+apple,2026-09-10,annual,,GB,1,1,0
+apple,2026-09-10,monthly,One Month,US,2,2,0
+apple,2026-09-10,monthly,,US,2,2,0
+apple,2026-09-10,annual,,SE,1,1,0
+apple,2026-09-11,annual,,US,8,8,0
+apple,2026-09-11,annual,,GB,1,1,0
+apple,2026-09-11,monthly,One Month,US,2,2,0
+apple,2026-09-11,monthly,,US,2,2,0
+apple,2026-09-11,annual,,SE,1,1,0
+apple,2026-09-12,annual,,US,8,8,0
+apple,2026-09-12,annual,,GB,1,1,0
+apple,2026-09-12,monthly,One Month,US,2,2,0
+apple,2026-09-12,monthly,,US,2,2,0
+apple,2026-09-12,annual,,SE,1,1,0
+apple,2026-09-13,annual,,US,8,8,0
+apple,2026-09-13,annual,,GB,1,1,0
+apple,2026-09-13,monthly,One Month,US,2,2,0
+apple,2026-09-13,monthly,,US,2,2,0
+apple,2026-09-13,annual,,SE,1,1,0
+apple,2026-09-14,annual,,US,8,8,0
+apple,2026-09-14,annual,,GB,1,1,0
+apple,2026-09-14,monthly,One Month,US,2,2,0
+apple,2026-09-14,monthly,,US,2,2,0
+apple,2026-09-14,annual,,SE,1,1,0
+apple,2026-09-15,annual,,US,8,8,0
+apple,2026-09-15,annual,,GB,1,1,0
+apple,2026-09-15,monthly,One Month,US,2,2,0
+apple,2026-09-15,monthly,,US,2,2,0
+apple,2026-09-15,annual,,SE,1,1,0
+apple,2026-09-16,annual,,US,8,8,0
+apple,2026-09-16,annual,,GB,1,1,0
+apple,2026-09-16,monthly,One Month,US,2,2,0
+apple,2026-09-16,monthly,,US,2,2,0
+apple,2026-09-16,annual,,SE,1,1,0
+apple,2026-09-17,annual,,US,8,8,0
+apple,2026-09-17,annual,,GB,1,1,0
+apple,2026-09-17,monthly,One Month,US,2,2,0
+apple,2026-09-17,monthly,,US,2,2,0
+apple,2026-09-17,annual,,SE,1,1,0
+apple,2026-09-18,annual,,US,8,8,0
+apple,2026-09-18,annual,,GB,1,1,0
+apple,2026-09-18,monthly,One Month,US,2,2,0
+apple,2026-09-18,monthly,,US,2,2,0
+apple,2026-09-18,annual,,SE,1,1,0
+apple,2026-09-19,annual,,US,8,8,0
+apple,2026-09-19,annual,,GB,1,1,0
+apple,2026-09-19,monthly,One Month,US,2,2,0
+apple,2026-09-19,monthly,,US,2,2,0
+apple,2026-09-19,annual,,SE,1,1,0
+apple,2026-09-20,annual,,US,8,8,0
+apple,2026-09-20,annual,,GB,1,1,0
+apple,2026-09-20,monthly,One Month,US,2,2,0
+apple,2026-09-20,monthly,,US,1,1,0
+apple,2026-09-20,annual,,SE,1,1,0
+apple,2026-09-21,annual,,US,8,8,0
+apple,2026-09-21,annual,,GB,1,1,0
+apple,2026-09-21,monthly,One Month,US,2,2,0
+apple,2026-09-21,monthly,,US,1,1,0
+apple,2026-09-21,annual,,SE,1,1,0
+apple,2026-09-22,annual,,US,8,8,0
+apple,2026-09-22,annual,,GB,1,1,0
+apple,2026-09-22,monthly,One Month,US,1,1,0
+apple,2026-09-22,monthly,,US,1,1,0
+apple,2026-09-22,annual,,SE,1,1,0
+apple,2026-09-23,annual,,US,8,8,0
+apple,2026-09-23,annual,,GB,1,1,0
+apple,2026-09-23,monthly,One Month,US,1,1,0
+apple,2026-09-23,monthly,,US,1,1,0
+apple,2026-09-23,annual,,SE,1,1,0
+apple,2026-09-24,annual,,US,8,8,0
+apple,2026-09-24,annual,,GB,1,1,0
+apple,2026-09-24,monthly,One Month,US,1,1,0
+apple,2026-09-24,monthly,,US,1,1,0
+apple,2026-09-24,annual,,SE,1,1,0
+apple,2026-09-25,annual,,US,8,8,0
+apple,2026-09-25,annual,,GB,1,1,0
+apple,2026-09-25,monthly,One Month,US,1,1,0
+apple,2026-09-25,monthly,,US,1,1,0
+apple,2026-09-25,annual,,SE,1,1,0
+apple,2026-09-26,annual,,US,8,8,0
+apple,2026-09-26,annual,,GB,1,1,0
+apple,2026-09-26,monthly,One Month,US,1,1,0
+apple,2026-09-26,monthly,,US,1,1,0
+apple,2026-09-26,annual,,SE,1,1,0
+apple,2026-09-27,annual,,US,8,8,0
+apple,2026-09-27,annual,,GB,1,1,0
+apple,2026-09-27,monthly,One Month,US,1,1,0
+apple,2026-09-27,monthly,,US,1,1,0
+apple,2026-09-27,annual,,SE,1,1,0
+apple,2026-09-28,annual,,US,8,8,0
+apple,2026-09-28,annual,,GB,1,1,0
+apple,2026-09-28,monthly,One Month,US,1,1,0
+apple,2026-09-28,monthly,,US,1,1,0
+apple,2026-09-28,annual,,SE,1,1,0
+apple,2026-09-29,annual,,US,8,8,0
+apple,2026-09-29,annual,,GB,1,1,0
+apple,2026-09-29,monthly,One Month,US,1,1,0
+apple,2026-09-29,monthly,,US,1,1,0
+apple,2026-09-29,annual,,SE,1,1,0
+apple,2026-09-30,annual,,US,8,8,0
+apple,2026-09-30,annual,,GB,1,1,0
+apple,2026-09-30,monthly,One Month,US,1,1,0
+apple,2026-09-30,monthly,,US,1,1,0
+apple,2026-09-30,annual,,SE,1,1,0
+apple,2026-10-01,annual,,US,8,8,0
+apple,2026-10-01,annual,,GB,1,1,0
+apple,2026-10-01,monthly,One Month,US,1,1,0
+apple,2026-10-01,monthly,,US,1,1,0
+apple,2026-10-01,annual,,SE,1,1,0
+apple,2026-10-02,annual,,US,8,8,0
+apple,2026-10-02,annual,,GB,1,1,0
+apple,2026-10-02,monthly,One Month,US,1,1,0
+apple,2026-10-02,annual,,SE,1,1,0
+apple,2026-10-03,annual,,US,8,8,0
+apple,2026-10-03,annual,,GB,1,1,0
+apple,2026-10-03,monthly,One Month,US,1,1,0
+apple,2026-10-03,annual,,SE,1,1,0
+apple,2026-10-04,annual,,US,8,8,0
+apple,2026-10-04,annual,,GB,1,1,0
+apple,2026-10-04,monthly,One Month,US,1,1,0
+apple,2026-10-04,annual,,SE,1,1,0
+apple,2026-10-04,monthly,,US,1,1,0
+apple,2026-10-05,annual,,US,8,8,0
+apple,2026-10-05,annual,,GB,1,1,0
+apple,2026-10-05,monthly,One Month,US,1,1,0
+apple,2026-10-05,annual,,SE,1,1,0
+apple,2026-10-05,monthly,,US,1,1,0
+apple,2026-10-06,annual,,US,8,8,0
+apple,2026-10-06,annual,,GB,1,1,0
+apple,2026-10-06,monthly,One Month,US,1,1,0
+apple,2026-10-06,annual,,SE,1,1,0
+apple,2026-10-07,annual,,US,8,8,0
+apple,2026-10-07,annual,,GB,1,1,0
+apple,2026-10-07,monthly,One Month,US,1,1,0
+apple,2026-10-07,annual,,SE,1,1,0
+apple,2026-10-08,annual,,US,8,8,0
+apple,2026-10-08,annual,,GB,1,1,0
+apple,2026-10-08,monthly,One Month,US,1,1,0
+apple,2026-10-08,annual,,SE,1,1,0
+apple,2026-10-09,annual,,US,8,8,0
+apple,2026-10-09,annual,,GB,1,1,0
+apple,2026-10-09,monthly,One Month,US,1,1,0
+apple,2026-10-09,annual,,SE,1,1,0
+apple,2026-10-10,annual,,US,8,8,0
+apple,2026-10-10,annual,,GB,1,1,0
+apple,2026-10-10,monthly,One Month,US,1,1,0
+apple,2026-10-10,annual,,SE,1,1,0
+apple,2026-10-11,annual,,US,8,8,0
+apple,2026-10-11,annual,,GB,1,1,0
+apple,2026-10-11,monthly,One Month,US,1,1,0
+apple,2026-10-11,annual,,SE,1,1,0
+apple,2026-10-11,monthly,,US,1,1,0
+apple,2026-10-12,annual,,US,8,8,0
+apple,2026-10-12,annual,,GB,1,1,0
+apple,2026-10-12,monthly,One Month,US,1,1,0
+apple,2026-10-12,annual,,SE,1,1,0
+apple,2026-10-12,monthly,,US,1,1,0
+apple,2026-10-13,annual,,US,8,8,0
+apple,2026-10-13,annual,,GB,1,1,0
+apple,2026-10-13,monthly,One Month,US,1,1,0
+apple,2026-10-13,annual,,SE,1,1,0
+apple,2026-10-13,monthly,,US,1,1,0
+apple,2026-10-14,annual,,US,8,8,0
+apple,2026-10-14,annual,,GB,1,1,0
+apple,2026-10-14,monthly,One Month,US,1,1,0
+apple,2026-10-14,annual,,SE,1,1,0
+apple,2026-10-14,monthly,,US,2,2,0
+apple,2026-10-15,annual,,US,8,8,0
+apple,2026-10-15,annual,,GB,1,1,0
+apple,2026-10-15,monthly,One Month,US,1,1,0
+apple,2026-10-15,annual,,SE,1,1,0
+apple,2026-10-15,monthly,,US,2,2,0
+apple,2026-10-16,annual,,US,8,8,0
+apple,2026-10-16,annual,,GB,1,1,0
+apple,2026-10-16,monthly,One Month,US,1,1,0
+apple,2026-10-16,annual,,SE,1,1,0
+apple,2026-10-16,monthly,,US,2,2,0
+apple,2026-10-17,annual,,US,8,8,0
+apple,2026-10-17,annual,,GB,1,1,0
+apple,2026-10-17,monthly,One Month,US,1,1,0
+apple,2026-10-17,annual,,SE,1,1,0
+apple,2026-10-17,monthly,,US,2,2,0
+apple,2026-10-18,annual,,US,8,8,0
+apple,2026-10-18,annual,,GB,1,1,0
+apple,2026-10-18,monthly,One Month,US,1,1,0
+apple,2026-10-18,annual,,SE,1,1,0
+apple,2026-10-18,monthly,,US,2,2,0
+apple,2026-10-18,annual,,TW,1,1,0
+apple,2026-10-19,annual,,US,8,8,0
+apple,2026-10-19,annual,,GB,1,1,0
+apple,2026-10-19,monthly,One Month,US,1,1,0
+apple,2026-10-19,annual,,SE,1,1,0
+apple,2026-10-19,monthly,,US,2,2,0
+apple,2026-10-19,annual,,TW,1,1,0
+apple,2026-10-20,annual,,US,8,8,0
+apple,2026-10-20,annual,,GB,1,1,0
+apple,2026-10-20,monthly,One Month,US,1,1,0
+apple,2026-10-20,annual,,SE,1,1,0
+apple,2026-10-20,monthly,,US,3,3,0
+apple,2026-10-20,annual,,TW,1,1,0
+apple,2026-10-21,annual,,US,8,8,0
+apple,2026-10-21,annual,,GB,1,1,0
+apple,2026-10-21,monthly,One Month,US,1,1,0
+apple,2026-10-21,annual,,SE,1,1,0
+apple,2026-10-21,monthly,,US,4,4,0
+apple,2026-10-21,annual,,TW,1,1,0
+apple,2026-10-21,annual,Evacode,US,1,0,1
+apple,2026-10-22,annual,,US,8,8,0
+apple,2026-10-22,annual,,GB,1,1,0
+apple,2026-10-22,monthly,One Month,US,1,1,0
+apple,2026-10-22,annual,,SE,1,1,0
+apple,2026-10-22,monthly,,US,4,4,0
+apple,2026-10-22,annual,,TW,1,1,0
+apple,2026-10-22,annual,Evacode,US,1,0,1
+apple,2026-10-23,annual,,US,8,8,0
+apple,2026-10-23,annual,,GB,1,1,0
+apple,2026-10-23,monthly,One Month,US,1,1,0
+apple,2026-10-23,annual,,SE,1,1,0
+apple,2026-10-23,monthly,,US,4,4,0
+apple,2026-10-23,annual,,TW,1,1,0
+apple,2026-10-23,annual,Evacode,US,2,0,2
+apple,2026-10-24,annual,,US,8,8,0
+apple,2026-10-24,annual,,GB,1,1,0
+apple,2026-10-24,monthly,One Month,US,1,1,0
+apple,2026-10-24,annual,,SE,1,1,0
+apple,2026-10-24,monthly,,US,4,4,0
+apple,2026-10-24,annual,,TW,1,1,0
+apple,2026-10-24,annual,Evacode,US,2,0,2
+apple,2026-10-25,annual,,US,9,9,0
+apple,2026-10-25,annual,,GB,1,1,0
+apple,2026-10-25,monthly,One Month,US,1,1,0
+apple,2026-10-25,annual,,SE,1,1,0
+apple,2026-10-25,monthly,,US,4,4,0
+apple,2026-10-25,annual,,TW,1,1,0
+apple,2026-10-25,annual,Evacode,US,2,0,2
+apple,2026-10-25,monthly,,EE,1,1,0
+apple,2026-10-26,annual,,US,10,10,0
+apple,2026-10-26,annual,,GB,1,1,0
+apple,2026-10-26,monthly,One Month,US,1,1,0
+apple,2026-10-26,annual,,SE,1,1,0
+apple,2026-10-26,monthly,,US,4,4,0
+apple,2026-10-26,annual,,TW,1,1,0
+apple,2026-10-26,annual,Evacode,US,3,0,3
+apple,2026-10-26,monthly,,EE,1,1,0
+apple,2026-10-27,annual,,US,10,10,0
+apple,2026-10-27,annual,,GB,1,1,0
+apple,2026-10-27,monthly,One Month,US,1,1,0
+apple,2026-10-27,annual,,SE,1,1,0
+apple,2026-10-27,monthly,,US,5,5,0
+apple,2026-10-27,annual,,TW,1,1,0
+apple,2026-10-27,annual,Evacode,US,4,0,4
+apple,2026-10-27,monthly,,EE,1,1,0
+apple,2026-10-28,annual,,US,10,10,0
+apple,2026-10-28,annual,,GB,1,1,0
+apple,2026-10-28,monthly,One Month,US,1,1,0
+apple,2026-10-28,annual,,SE,1,1,0
+apple,2026-10-28,monthly,,US,6,6,0
+apple,2026-10-28,annual,,TW,1,1,0
+apple,2026-10-28,annual,Evacode,US,4,0,4
+apple,2026-10-28,monthly,,EE,1,1,0
+apple,2026-10-29,annual,,US,11,11,0
+apple,2026-10-29,annual,,GB,1,1,0
+apple,2026-10-29,monthly,One Month,US,1,1,0
+apple,2026-10-29,annual,,SE,1,1,0
+apple,2026-10-29,monthly,,US,6,6,0
+apple,2026-10-29,annual,,TW,1,1,0
+apple,2026-10-29,annual,Evacode,US,4,0,4
+apple,2026-10-29,monthly,,EE,1,1,0
+apple,2026-10-29,annual,,CA,1,1,0
+apple,2026-10-30,annual,,US,12,12,0
+apple,2026-10-30,annual,,GB,1,1,0
+apple,2026-10-30,monthly,One Month,US,1,1,0
+apple,2026-10-30,annual,,SE,1,1,0
+apple,2026-10-30,monthly,,US,6,6,0
+apple,2026-10-30,annual,,TW,1,1,0
+apple,2026-10-30,annual,Evacode,US,5,0,5
+apple,2026-10-30,monthly,,EE,1,1,0
+apple,2026-10-30,annual,,CA,1,1,0
+google_play,2026-01-02,monthly,,US,1,,
+google_play,2026-01-03,monthly,,US,1,,
+google_play,2026-01-04,monthly,,US,1,,
+google_play,2026-01-04,monthly,,EE,1,,
+google_play,2026-01-05,monthly,,US,1,,
+google_play,2026-01-05,monthly,,EE,1,,
+google_play,2026-01-06,monthly,,US,1,,
+google_play,2026-01-06,monthly,,EE,1,,
+google_play,2026-01-07,monthly,,US,1,,
+google_play,2026-01-07,monthly,,EE,1,,
+google_play,2026-01-08,monthly,,US,1,,
+google_play,2026-01-08,monthly,,EE,1,,
+google_play,2026-01-09,monthly,,US,1,,
+google_play,2026-01-09,monthly,,EE,1,,
+google_play,2026-01-09,monthly,,GB,1,,
+google_play,2026-01-09,monthly,,SE,1,,
+google_play,2026-01-10,monthly,,US,1,,
+google_play,2026-01-10,monthly,,EE,1,,
+google_play,2026-01-10,monthly,,GB,1,,
+google_play,2026-01-10,monthly,,SE,1,,
+google_play,2026-01-11,monthly,,US,1,,
+google_play,2026-01-11,monthly,,EE,1,,
+google_play,2026-01-11,monthly,,GB,1,,
+google_play,2026-01-11,monthly,,SE,1,,
+google_play,2026-01-12,monthly,,US,1,,
+google_play,2026-01-12,monthly,,EE,1,,
+google_play,2026-01-12,monthly,,GB,1,,
+google_play,2026-01-12,monthly,,SE,1,,
+google_play,2026-01-13,monthly,,US,1,,
+google_play,2026-01-13,monthly,,EE,1,,
+google_play,2026-01-13,monthly,,GB,1,,
+google_play,2026-01-13,monthly,,SE,1,,
+google_play,2026-01-14,monthly,,US,1,,
+google_play,2026-01-14,monthly,,EE,1,,
+google_play,2026-01-14,monthly,,GB,1,,
+google_play,2026-01-14,monthly,,SE,1,,
+google_play,2026-01-15,monthly,,US,1,,
+google_play,2026-01-15,monthly,,EE,1,,
+google_play,2026-01-15,monthly,,GB,1,,
+google_play,2026-01-15,monthly,,SE,1,,
+google_play,2026-01-16,monthly,,US,2,,
+google_play,2026-01-16,monthly,,EE,1,,
+google_play,2026-01-16,monthly,,GB,1,,
+google_play,2026-01-16,monthly,,SE,1,,
+google_play,2026-01-17,monthly,,US,2,,
+google_play,2026-01-17,monthly,,EE,1,,
+google_play,2026-01-17,monthly,,GB,1,,
+google_play,2026-01-17,monthly,,SE,1,,
+google_play,2026-01-18,monthly,,US,3,,
+google_play,2026-01-18,monthly,,EE,1,,
+google_play,2026-01-18,monthly,,GB,1,,
+google_play,2026-01-18,monthly,,SE,1,,
+google_play,2026-01-19,monthly,,US,6,,
+google_play,2026-01-19,monthly,,EE,1,,
+google_play,2026-01-19,monthly,,GB,1,,
+google_play,2026-01-19,monthly,,SE,1,,
+google_play,2026-01-20,monthly,,US,7,,
+google_play,2026-01-20,monthly,,EE,1,,
+google_play,2026-01-20,monthly,,GB,1,,
+google_play,2026-01-20,monthly,,SE,1,,
+google_play,2026-01-21,monthly,,US,8,,
+google_play,2026-01-21,monthly,,EE,1,,
+google_play,2026-01-21,monthly,,GB,1,,
+google_play,2026-01-21,monthly,,SE,1,,
+google_play,2026-01-22,monthly,,US,8,,
+google_play,2026-01-22,monthly,,EE,1,,
+google_play,2026-01-22,monthly,,GB,1,,
+google_play,2026-01-22,monthly,,SE,1,,
+google_play,2026-01-23,monthly,,US,9,,
+google_play,2026-01-23,monthly,,EE,1,,
+google_play,2026-01-23,monthly,,GB,1,,
+google_play,2026-01-23,monthly,,SE,2,,
+google_play,2026-01-24,monthly,,US,9,,
+google_play,2026-01-24,monthly,,EE,1,,
+google_play,2026-01-24,monthly,,GB,1,,
+google_play,2026-01-24,monthly,,SE,2,,
+google_play,2026-01-25,monthly,,US,10,,
+google_play,2026-01-25,monthly,,EE,1,,
+google_play,2026-01-25,monthly,,GB,1,,
+google_play,2026-01-25,monthly,,SE,2,,
+google_play,2026-01-26,monthly,,US,10,,
+google_play,2026-01-26,monthly,,EE,1,,
+google_play,2026-01-26,monthly,,GB,1,,
+google_play,2026-01-26,monthly,,SE,2,,
+google_play,2026-01-27,monthly,,US,10,,
+google_play,2026-01-27,monthly,,EE,1,,
+google_play,2026-01-27,monthly,,GB,1,,
+google_play,2026-01-27,monthly,,SE,2,,
+google_play,2026-01-28,monthly,,US,11,,
+google_play,2026-01-28,monthly,,EE,1,,
+google_play,2026-01-28,monthly,,GB,1,,
+google_play,2026-01-28,monthly,,SE,2,,
+google_play,2026-01-29,monthly,,US,11,,
+google_play,2026-01-29,monthly,,EE,1,,
+google_play,2026-01-29,monthly,,GB,1,,
+google_play,2026-01-29,monthly,,SE,2,,
+google_play,2026-01-30,monthly,,US,11,,
+google_play,2026-01-30,monthly,,EE,1,,
+google_play,2026-01-30,monthly,,GB,1,,
+google_play,2026-01-30,monthly,,SE,2,,
+google_play,2026-01-31,monthly,,US,11,,
+google_play,2026-01-31,monthly,,EE,1,,
+google_play,2026-01-31,monthly,,GB,1,,
+google_play,2026-01-31,monthly,,SE,2,,
+google_play,2026-02-01,monthly,,US,11,,
+google_play,2026-02-01,monthly,,EE,1,,
+google_play,2026-02-01,monthly,,GB,1,,
+google_play,2026-02-01,monthly,,SE,2,,
+google_play,2026-02-02,monthly,,US,11,,
+google_play,2026-02-02,monthly,,EE,1,,
+google_play,2026-02-02,monthly,,GB,1,,
+google_play,2026-02-02,monthly,,SE,2,,
+google_play,2026-02-03,monthly,,US,11,,
+google_play,2026-02-03,monthly,,EE,1,,
+google_play,2026-02-03,monthly,,GB,1,,
+google_play,2026-02-03,monthly,,SE,2,,
+google_play,2026-02-04,monthly,,US,11,,
+google_play,2026-02-04,monthly,,GB,1,,
+google_play,2026-02-04,monthly,,SE,2,,
+google_play,2026-02-05,monthly,,US,11,,
+google_play,2026-02-05,monthly,,GB,1,,
+google_play,2026-02-05,monthly,,SE,2,,
+google_play,2026-02-06,monthly,,US,11,,
+google_play,2026-02-06,monthly,,GB,1,,
+google_play,2026-02-06,monthly,,SE,2,,
+google_play,2026-02-07,monthly,,US,11,,
+google_play,2026-02-07,monthly,,GB,1,,
+google_play,2026-02-07,monthly,,SE,2,,
+google_play,2026-02-08,monthly,,US,11,,
+google_play,2026-02-08,monthly,,GB,1,,
+google_play,2026-02-08,monthly,,SE,2,,
+google_play,2026-02-09,monthly,,US,12,,
+google_play,2026-02-09,monthly,,SE,2,,
+google_play,2026-02-10,monthly,,US,12,,
+google_play,2026-02-10,monthly,,SE,2,,
+google_play,2026-02-11,monthly,,US,12,,
+google_play,2026-02-11,monthly,,SE,2,,
+google_play,2026-02-12,monthly,,US,12,,
+google_play,2026-02-12,monthly,,SE,2,,
+google_play,2026-02-13,monthly,,US,12,,
+google_play,2026-02-13,monthly,,SE,2,,
+google_play,2026-02-13,monthly,,FR,1,,
+google_play,2026-02-14,monthly,,US,12,,
+google_play,2026-02-14,monthly,,SE,2,,
+google_play,2026-02-14,monthly,,FR,1,,
+google_play,2026-02-15,monthly,,US,12,,
+google_play,2026-02-15,monthly,,SE,2,,
+google_play,2026-02-15,monthly,,FR,1,,
+google_play,2026-02-16,monthly,,US,11,,
+google_play,2026-02-16,monthly,,SE,2,,
+google_play,2026-02-16,monthly,,FR,1,,
+google_play,2026-02-17,monthly,,US,11,,
+google_play,2026-02-17,monthly,,SE,2,,
+google_play,2026-02-17,monthly,,FR,1,,
+google_play,2026-02-17,annual,,US,1,,
+google_play,2026-02-18,monthly,,US,11,,
+google_play,2026-02-18,monthly,,SE,2,,
+google_play,2026-02-18,monthly,,FR,1,,
+google_play,2026-02-18,annual,,US,1,,
+google_play,2026-02-19,monthly,,US,10,,
+google_play,2026-02-19,monthly,,SE,2,,
+google_play,2026-02-19,monthly,,FR,1,,
+google_play,2026-02-19,annual,,US,1,,
+google_play,2026-02-20,monthly,,US,10,,
+google_play,2026-02-20,monthly,,SE,2,,
+google_play,2026-02-20,monthly,,FR,1,,
+google_play,2026-02-20,annual,,US,1,,
+google_play,2026-02-21,monthly,,US,9,,
+google_play,2026-02-21,monthly,,SE,2,,
+google_play,2026-02-21,monthly,,FR,1,,
+google_play,2026-02-21,annual,,US,1,,
+google_play,2026-02-22,monthly,,US,9,,
+google_play,2026-02-22,monthly,,SE,2,,
+google_play,2026-02-22,monthly,,FR,1,,
+google_play,2026-02-22,annual,,US,1,,
+google_play,2026-02-23,monthly,,US,9,,
+google_play,2026-02-23,monthly,,SE,1,,
+google_play,2026-02-23,monthly,,FR,1,,
+google_play,2026-02-23,annual,,US,1,,
+google_play,2026-02-24,monthly,,US,9,,
+google_play,2026-02-24,monthly,,SE,1,,
+google_play,2026-02-24,monthly,,FR,1,,
+google_play,2026-02-24,annual,,US,1,,
+google_play,2026-02-25,monthly,,US,9,,
+google_play,2026-02-25,monthly,,SE,1,,
+google_play,2026-02-25,monthly,,FR,1,,
+google_play,2026-02-25,annual,,US,1,,
+google_play,2026-02-25,monthly,,DE,1,,
+google_play,2026-02-26,monthly,,US,9,,
+google_play,2026-02-26,monthly,,SE,1,,
+google_play,2026-02-26,monthly,,FR,1,,
+google_play,2026-02-26,annual,,US,1,,
+google_play,2026-02-26,monthly,,DE,1,,
+google_play,2026-02-27,monthly,,US,9,,
+google_play,2026-02-27,monthly,,SE,1,,
+google_play,2026-02-27,monthly,,FR,1,,
+google_play,2026-02-27,annual,,US,1,,
+google_play,2026-02-27,monthly,,DE,1,,
+google_play,2026-02-28,monthly,,US,9,,
+google_play,2026-02-28,monthly,,SE,1,,
+google_play,2026-02-28,monthly,,FR,1,,
+google_play,2026-02-28,annual,,US,1,,
+google_play,2026-02-28,monthly,,DE,1,,
+google_play,2026-03-01,monthly,,US,9,,
+google_play,2026-03-01,monthly,,SE,1,,
+google_play,2026-03-01,monthly,,FR,1,,
+google_play,2026-03-01,annual,,US,1,,
+google_play,2026-03-01,monthly,,DE,1,,
+google_play,2026-03-02,monthly,,US,9,,
+google_play,2026-03-02,monthly,,SE,1,,
+google_play,2026-03-02,monthly,,FR,1,,
+google_play,2026-03-02,annual,,US,1,,
+google_play,2026-03-02,monthly,,DE,1,,
+google_play,2026-03-03,monthly,,US,10,,
+google_play,2026-03-03,monthly,,SE,1,,
+google_play,2026-03-03,monthly,,FR,1,,
+google_play,2026-03-03,annual,,US,1,,
+google_play,2026-03-03,monthly,,DE,1,,
+google_play,2026-03-04,monthly,,US,10,,
+google_play,2026-03-04,monthly,,SE,1,,
+google_play,2026-03-04,monthly,,FR,1,,
+google_play,2026-03-04,annual,,US,1,,
+google_play,2026-03-04,monthly,,DE,1,,
+google_play,2026-03-05,monthly,,US,10,,
+google_play,2026-03-05,monthly,,SE,1,,
+google_play,2026-03-05,monthly,,FR,1,,
+google_play,2026-03-05,annual,,US,1,,
+google_play,2026-03-05,monthly,,DE,1,,
+google_play,2026-03-06,monthly,,US,10,,
+google_play,2026-03-06,monthly,,SE,1,,
+google_play,2026-03-06,monthly,,FR,1,,
+google_play,2026-03-06,annual,,US,1,,
+google_play,2026-03-06,monthly,,DE,1,,
+google_play,2026-03-07,monthly,,US,10,,
+google_play,2026-03-07,monthly,,SE,1,,
+google_play,2026-03-07,monthly,,FR,1,,
+google_play,2026-03-07,annual,,US,1,,
+google_play,2026-03-07,monthly,,DE,1,,
+google_play,2026-03-08,monthly,,US,10,,
+google_play,2026-03-08,monthly,,SE,1,,
+google_play,2026-03-08,monthly,,FR,1,,
+google_play,2026-03-08,annual,,US,1,,
+google_play,2026-03-08,monthly,,DE,1,,
+google_play,2026-03-09,monthly,,US,9,,
+google_play,2026-03-09,monthly,,SE,1,,
+google_play,2026-03-09,monthly,,FR,1,,
+google_play,2026-03-09,annual,,US,1,,
+google_play,2026-03-09,monthly,,DE,1,,
+google_play,2026-03-10,monthly,,US,9,,
+google_play,2026-03-10,monthly,,SE,1,,
+google_play,2026-03-10,monthly,,FR,1,,
+google_play,2026-03-10,annual,,US,1,,
+google_play,2026-03-10,monthly,,DE,1,,
+google_play,2026-03-11,monthly,,US,9,,
+google_play,2026-03-11,monthly,,SE,1,,
+google_play,2026-03-11,monthly,,FR,1,,
+google_play,2026-03-11,annual,,US,1,,
+google_play,2026-03-11,monthly,,DE,1,,
+google_play,2026-03-12,monthly,,US,9,,
+google_play,2026-03-12,monthly,,SE,1,,
+google_play,2026-03-12,monthly,,FR,1,,
+google_play,2026-03-12,annual,,US,1,,
+google_play,2026-03-12,monthly,,DE,1,,
+google_play,2026-03-13,monthly,,US,9,,
+google_play,2026-03-13,monthly,,SE,1,,
+google_play,2026-03-13,monthly,,FR,1,,
+google_play,2026-03-13,annual,,US,1,,
+google_play,2026-03-13,monthly,,DE,1,,
+google_play,2026-03-14,monthly,,US,9,,
+google_play,2026-03-14,monthly,,SE,1,,
+google_play,2026-03-14,monthly,,FR,1,,
+google_play,2026-03-14,annual,,US,1,,
+google_play,2026-03-14,monthly,,DE,1,,
+google_play,2026-03-15,monthly,,US,9,,
+google_play,2026-03-15,monthly,,SE,1,,
+google_play,2026-03-15,monthly,,FR,1,,
+google_play,2026-03-15,annual,,US,1,,
+google_play,2026-03-15,monthly,,DE,1,,
+google_play,2026-03-16,monthly,,US,9,,
+google_play,2026-03-16,monthly,,SE,1,,
+google_play,2026-03-16,monthly,,FR,1,,
+google_play,2026-03-16,annual,,US,1,,
+google_play,2026-03-16,monthly,,DE,1,,
+google_play,2026-03-17,monthly,,US,9,,
+google_play,2026-03-17,monthly,,SE,1,,
+google_play,2026-03-17,monthly,,FR,1,,
+google_play,2026-03-17,annual,,US,1,,
+google_play,2026-03-17,monthly,,DE,1,,
+google_play,2026-03-18,monthly,,US,9,,
+google_play,2026-03-18,monthly,,SE,1,,
+google_play,2026-03-18,monthly,,FR,1,,
+google_play,2026-03-18,annual,,US,1,,
+google_play,2026-03-18,monthly,,DE,1,,
+google_play,2026-03-19,monthly,,US,8,,
+google_play,2026-03-19,monthly,,SE,1,,
+google_play,2026-03-19,monthly,,FR,1,,
+google_play,2026-03-19,annual,,US,1,,
+google_play,2026-03-19,monthly,,DE,1,,
+google_play,2026-03-20,monthly,,US,8,,
+google_play,2026-03-20,monthly,,SE,1,,
+google_play,2026-03-20,monthly,,FR,1,,
+google_play,2026-03-20,annual,,US,1,,
+google_play,2026-03-20,monthly,,DE,1,,
+google_play,2026-03-21,monthly,,US,8,,
+google_play,2026-03-21,monthly,,SE,1,,
+google_play,2026-03-21,monthly,,FR,1,,
+google_play,2026-03-21,annual,,US,1,,
+google_play,2026-03-21,monthly,,DE,1,,
+google_play,2026-03-22,monthly,,US,8,,
+google_play,2026-03-22,monthly,,SE,1,,
+google_play,2026-03-22,monthly,,FR,1,,
+google_play,2026-03-22,annual,,US,1,,
+google_play,2026-03-22,monthly,,DE,1,,
+google_play,2026-03-23,monthly,,US,8,,
+google_play,2026-03-23,monthly,,SE,1,,
+google_play,2026-03-23,monthly,,FR,1,,
+google_play,2026-03-23,annual,,US,1,,
+google_play,2026-03-23,monthly,,DE,1,,
+google_play,2026-03-24,monthly,,US,8,,
+google_play,2026-03-24,monthly,,SE,1,,
+google_play,2026-03-24,monthly,,FR,1,,
+google_play,2026-03-24,annual,,US,1,,
+google_play,2026-03-24,monthly,,DE,1,,
+google_play,2026-03-25,monthly,,US,7,,
+google_play,2026-03-25,monthly,,SE,1,,
+google_play,2026-03-25,monthly,,FR,1,,
+google_play,2026-03-25,annual,,US,1,,
+google_play,2026-03-26,monthly,,US,7,,
+google_play,2026-03-26,monthly,,SE,1,,
+google_play,2026-03-26,monthly,,FR,1,,
+google_play,2026-03-26,annual,,US,1,,
+google_play,2026-03-27,monthly,,US,7,,
+google_play,2026-03-27,monthly,,SE,1,,
+google_play,2026-03-27,monthly,,FR,1,,
+google_play,2026-03-27,annual,,US,1,,
+google_play,2026-03-28,monthly,,US,6,,
+google_play,2026-03-28,monthly,,SE,1,,
+google_play,2026-03-28,monthly,,FR,1,,
+google_play,2026-03-28,annual,,US,1,,
+google_play,2026-03-29,monthly,,US,6,,
+google_play,2026-03-29,monthly,,SE,1,,
+google_play,2026-03-29,monthly,,FR,1,,
+google_play,2026-03-29,annual,,US,1,,
+google_play,2026-03-30,monthly,,US,6,,
+google_play,2026-03-30,monthly,,SE,1,,
+google_play,2026-03-30,monthly,,FR,1,,
+google_play,2026-03-30,annual,,US,1,,
+google_play,2026-03-31,monthly,,US,6,,
+google_play,2026-03-31,monthly,,SE,1,,
+google_play,2026-03-31,monthly,,FR,1,,
+google_play,2026-03-31,annual,,US,1,,
+google_play,2026-04-01,monthly,,US,6,,
+google_play,2026-04-01,monthly,,SE,1,,
+google_play,2026-04-01,monthly,,FR,1,,
+google_play,2026-04-01,annual,,US,1,,
+google_play,2026-04-02,monthly,,US,6,,
+google_play,2026-04-02,monthly,,SE,1,,
+google_play,2026-04-02,monthly,,FR,1,,
+google_play,2026-04-02,annual,,US,1,,
+google_play,2026-04-03,monthly,,US,6,,
+google_play,2026-04-03,monthly,,SE,1,,
+google_play,2026-04-03,monthly,,FR,1,,
+google_play,2026-04-03,annual,,US,1,,
+google_play,2026-04-04,monthly,,US,6,,
+google_play,2026-04-04,monthly,,SE,1,,
+google_play,2026-04-04,monthly,,FR,1,,
+google_play,2026-04-04,annual,,US,1,,
+google_play,2026-04-05,monthly,,US,6,,
+google_play,2026-04-05,monthly,,SE,1,,
+google_play,2026-04-05,monthly,,FR,1,,
+google_play,2026-04-05,annual,,US,1,,
+google_play,2026-04-06,monthly,,US,6,,
+google_play,2026-04-06,monthly,,SE,1,,
+google_play,2026-04-06,monthly,,FR,1,,
+google_play,2026-04-06,annual,,US,1,,
+google_play,2026-04-07,monthly,,US,6,,
+google_play,2026-04-07,monthly,,SE,1,,
+google_play,2026-04-07,monthly,,FR,1,,
+google_play,2026-04-07,annual,,US,1,,
+google_play,2026-04-08,monthly,,US,6,,
+google_play,2026-04-08,monthly,,SE,1,,
+google_play,2026-04-08,monthly,,FR,1,,
+google_play,2026-04-08,annual,,US,1,,
+google_play,2026-04-09,monthly,,US,6,,
+google_play,2026-04-09,monthly,,FR,1,,
+google_play,2026-04-09,annual,,US,1,,
+google_play,2026-04-10,monthly,,US,6,,
+google_play,2026-04-10,monthly,,FR,1,,
+google_play,2026-04-10,annual,,US,1,,
+google_play,2026-04-11,monthly,,US,6,,
+google_play,2026-04-11,monthly,,FR,1,,
+google_play,2026-04-11,annual,,US,1,,
+google_play,2026-04-12,monthly,,US,6,,
+google_play,2026-04-12,monthly,,FR,1,,
+google_play,2026-04-12,annual,,US,1,,
+google_play,2026-04-13,monthly,,US,6,,
+google_play,2026-04-13,annual,,US,1,,
+google_play,2026-04-14,monthly,,US,6,,
+google_play,2026-04-14,annual,,US,1,,
+google_play,2026-04-15,monthly,,US,6,,
+google_play,2026-04-15,annual,,US,1,,
+google_play,2026-04-16,monthly,,US,6,,
+google_play,2026-04-16,annual,,US,1,,
+google_play,2026-04-17,monthly,,US,6,,
+google_play,2026-04-17,annual,,US,1,,
+google_play,2026-04-18,monthly,,US,5,,
+google_play,2026-04-18,annual,,US,1,,
+google_play,2026-04-19,monthly,,US,5,,
+google_play,2026-04-19,annual,,US,1,,
+google_play,2026-04-20,monthly,,US,4,,
+google_play,2026-04-20,annual,,US,1,,
+google_play,2026-04-21,monthly,,US,4,,
+google_play,2026-04-21,annual,,US,1,,
+google_play,2026-04-22,monthly,,US,4,,
+google_play,2026-04-22,annual,,US,1,,
+google_play,2026-04-23,monthly,,US,5,,
+google_play,2026-04-23,annual,,US,1,,
+google_play,2026-04-24,monthly,,US,5,,
+google_play,2026-04-24,annual,,US,1,,
+google_play,2026-04-25,monthly,,US,5,,
+google_play,2026-04-25,annual,,US,1,,
+google_play,2026-04-26,monthly,,US,5,,
+google_play,2026-04-26,annual,,US,1,,
+google_play,2026-04-27,monthly,,US,5,,
+google_play,2026-04-27,annual,,US,1,,
+google_play,2026-04-28,monthly,,US,5,,
+google_play,2026-04-28,annual,,US,1,,
+google_play,2026-04-29,monthly,,US,5,,
+google_play,2026-04-29,annual,,US,1,,
+google_play,2026-04-30,monthly,,US,5,,
+google_play,2026-04-30,annual,,US,1,,
+google_play,2026-05-01,monthly,,US,5,,
+google_play,2026-05-01,annual,,US,1,,
+google_play,2026-05-02,monthly,,US,5,,
+google_play,2026-05-02,annual,,US,1,,
+google_play,2026-05-03,monthly,,US,5,,
+google_play,2026-05-03,annual,,US,1,,
+google_play,2026-05-04,monthly,,US,5,,
+google_play,2026-05-04,annual,,US,1,,
+google_play,2026-05-05,monthly,,US,5,,
+google_play,2026-05-05,annual,,US,1,,
+google_play,2026-05-06,monthly,,US,5,,
+google_play,2026-05-06,annual,,US,1,,
+google_play,2026-05-07,monthly,,US,5,,
+google_play,2026-05-07,annual,,US,1,,
+google_play,2026-05-08,monthly,,US,5,,
+google_play,2026-05-08,annual,,US,1,,
+google_play,2026-05-09,monthly,,US,5,,
+google_play,2026-05-09,annual,,US,1,,
+google_play,2026-05-10,monthly,,US,5,,
+google_play,2026-05-10,annual,,US,1,,
+google_play,2026-05-11,monthly,,US,5,,
+google_play,2026-05-11,annual,,US,1,,
+google_play,2026-05-12,monthly,,US,6,,
+google_play,2026-05-12,annual,,US,1,,
+google_play,2026-05-13,monthly,,US,6,,
+google_play,2026-05-13,annual,,US,1,,
+google_play,2026-05-14,monthly,,US,6,,
+google_play,2026-05-14,annual,,US,1,,
+google_play,2026-05-15,monthly,,US,6,,
+google_play,2026-05-15,annual,,US,1,,
+google_play,2026-05-16,monthly,,US,7,,
+google_play,2026-05-16,annual,,US,1,,
+google_play,2026-05-17,monthly,,US,7,,
+google_play,2026-05-17,annual,,US,1,,
+google_play,2026-05-18,monthly,,US,7,,
+google_play,2026-05-18,annual,,US,1,,
+google_play,2026-05-19,monthly,,US,7,,
+google_play,2026-05-19,annual,,US,1,,
+google_play,2026-05-20,monthly,,US,7,,
+google_play,2026-05-20,annual,,US,1,,
+google_play,2026-05-21,monthly,,US,7,,
+google_play,2026-05-21,annual,,US,1,,
+google_play,2026-05-22,monthly,,US,7,,
+google_play,2026-05-22,annual,,US,1,,
+google_play,2026-05-22,monthly,,GB,1,,
+google_play,2026-05-23,monthly,,US,7,,
+google_play,2026-05-23,annual,,US,1,,
+google_play,2026-05-23,monthly,,GB,1,,
+google_play,2026-05-24,monthly,,US,7,,
+google_play,2026-05-24,annual,,US,1,,
+google_play,2026-05-24,monthly,,GB,1,,
+google_play,2026-05-25,monthly,,US,7,,
+google_play,2026-05-25,annual,,US,1,,
+google_play,2026-05-25,monthly,,GB,1,,
+google_play,2026-05-26,monthly,,US,7,,
+google_play,2026-05-26,annual,,US,1,,
+google_play,2026-05-26,monthly,,GB,1,,
+google_play,2026-05-27,monthly,,US,7,,
+google_play,2026-05-27,annual,,US,1,,
+google_play,2026-05-27,monthly,,GB,1,,
+google_play,2026-05-28,monthly,,US,7,,
+google_play,2026-05-28,annual,,US,1,,
+google_play,2026-05-28,monthly,,GB,1,,
+google_play,2026-05-29,monthly,,US,7,,
+google_play,2026-05-29,annual,,US,1,,
+google_play,2026-05-29,monthly,,GB,1,,
+google_play,2026-05-30,monthly,,US,7,,
+google_play,2026-05-30,annual,,US,1,,
+google_play,2026-05-30,monthly,,GB,1,,
+google_play,2026-05-31,monthly,,US,7,,
+google_play,2026-05-31,annual,,US,1,,
+google_play,2026-05-31,monthly,,GB,1,,
+google_play,2026-06-01,monthly,,US,8,,
+google_play,2026-06-01,annual,,US,1,,
+google_play,2026-06-01,monthly,,GB,1,,
+google_play,2026-06-02,monthly,,US,7,,
+google_play,2026-06-02,annual,,US,1,,
+google_play,2026-06-02,monthly,,GB,1,,
+google_play,2026-06-03,monthly,,US,6,,
+google_play,2026-06-03,annual,,US,1,,
+google_play,2026-06-03,monthly,,GB,1,,
+google_play,2026-06-04,monthly,,US,6,,
+google_play,2026-06-04,annual,,US,1,,
+google_play,2026-06-04,monthly,,GB,1,,
+google_play,2026-06-05,monthly,,US,6,,
+google_play,2026-06-05,annual,,US,1,,
+google_play,2026-06-05,monthly,,GB,1,,
+google_play,2026-06-06,monthly,,US,6,,
+google_play,2026-06-06,annual,,US,1,,
+google_play,2026-06-06,monthly,,GB,1,,
+google_play,2026-06-07,monthly,,US,6,,
+google_play,2026-06-07,annual,,US,1,,
+google_play,2026-06-07,monthly,,GB,1,,
+google_play,2026-06-08,monthly,,US,6,,
+google_play,2026-06-08,annual,,US,1,,
+google_play,2026-06-08,monthly,,GB,1,,
+google_play,2026-06-09,monthly,,US,6,,
+google_play,2026-06-09,annual,,US,1,,
+google_play,2026-06-09,monthly,,GB,1,,
+google_play,2026-06-10,monthly,,US,6,,
+google_play,2026-06-10,annual,,US,1,,
+google_play,2026-06-10,monthly,,GB,1,,
+google_play,2026-06-11,monthly,,US,6,,
+google_play,2026-06-11,annual,,US,1,,
+google_play,2026-06-11,monthly,,GB,1,,
+google_play,2026-06-12,monthly,,US,6,,
+google_play,2026-06-12,annual,,US,1,,
+google_play,2026-06-12,monthly,,GB,1,,
+google_play,2026-06-13,monthly,,US,6,,
+google_play,2026-06-13,annual,,US,1,,
+google_play,2026-06-13,monthly,,GB,1,,
+google_play,2026-06-14,monthly,,US,6,,
+google_play,2026-06-14,annual,,US,1,,
+google_play,2026-06-14,monthly,,GB,1,,
+google_play,2026-06-14,monthly,,TW,1,,
+google_play,2026-06-15,monthly,,US,6,,
+google_play,2026-06-15,annual,,US,1,,
+google_play,2026-06-15,monthly,,GB,1,,
+google_play,2026-06-15,monthly,,TW,1,,
+google_play,2026-06-16,monthly,,US,5,,
+google_play,2026-06-16,annual,,US,1,,
+google_play,2026-06-16,monthly,,GB,1,,
+google_play,2026-06-16,monthly,,TW,1,,
+google_play,2026-06-17,monthly,,US,5,,
+google_play,2026-06-17,annual,,US,1,,
+google_play,2026-06-17,monthly,,GB,1,,
+google_play,2026-06-17,monthly,,TW,1,,
+google_play,2026-06-18,monthly,,US,5,,
+google_play,2026-06-18,annual,,US,1,,
+google_play,2026-06-18,monthly,,GB,1,,
+google_play,2026-06-18,monthly,,TW,1,,
+google_play,2026-06-19,monthly,,US,6,,
+google_play,2026-06-19,annual,,US,1,,
+google_play,2026-06-19,monthly,,GB,1,,
+google_play,2026-06-19,monthly,,TW,1,,
+google_play,2026-06-20,monthly,,US,6,,
+google_play,2026-06-20,annual,,US,1,,
+google_play,2026-06-20,monthly,,GB,1,,
+google_play,2026-06-20,monthly,,TW,1,,
+google_play,2026-06-21,monthly,,US,6,,
+google_play,2026-06-21,annual,,US,1,,
+google_play,2026-06-21,monthly,,GB,1,,
+google_play,2026-06-21,monthly,,TW,1,,
+google_play,2026-06-22,monthly,,US,6,,
+google_play,2026-06-22,annual,,US,1,,
+google_play,2026-06-22,monthly,,TW,1,,
+google_play,2026-06-23,monthly,,US,5,,
+google_play,2026-06-23,annual,,US,1,,
+google_play,2026-06-23,monthly,,TW,1,,
+google_play,2026-06-24,monthly,,US,5,,
+google_play,2026-06-24,annual,,US,1,,
+google_play,2026-06-24,monthly,,TW,1,,
+google_play,2026-06-25,monthly,,US,5,,
+google_play,2026-06-25,annual,,US,1,,
+google_play,2026-06-25,monthly,,TW,1,,
+google_play,2026-06-26,monthly,,US,5,,
+google_play,2026-06-26,annual,,US,1,,
+google_play,2026-06-26,monthly,,TW,1,,
+google_play,2026-06-26,monthly,freesummer,US,1,,
+google_play,2026-06-27,monthly,,US,6,,
+google_play,2026-06-27,annual,,US,1,,
+google_play,2026-06-27,monthly,,TW,1,,
+google_play,2026-06-27,monthly,freesummer,US,1,,
+google_play,2026-06-28,monthly,,US,6,,
+google_play,2026-06-28,annual,,US,1,,
+google_play,2026-06-28,monthly,,TW,1,,
+google_play,2026-06-28,monthly,freesummer,US,1,,
+google_play,2026-06-29,monthly,,US,7,,
+google_play,2026-06-29,annual,,US,1,,
+google_play,2026-06-29,monthly,,TW,1,,
+google_play,2026-06-29,monthly,freesummer,US,1,,
+google_play,2026-06-30,monthly,,US,7,,
+google_play,2026-06-30,annual,,US,1,,
+google_play,2026-06-30,monthly,,TW,1,,
+google_play,2026-06-30,monthly,freesummer,US,2,,
+google_play,2026-07-01,monthly,,US,6,,
+google_play,2026-07-01,annual,,US,1,,
+google_play,2026-07-01,monthly,,TW,1,,
+google_play,2026-07-01,monthly,freesummer,US,2,,
+google_play,2026-07-02,monthly,,US,6,,
+google_play,2026-07-02,annual,,US,1,,
+google_play,2026-07-02,monthly,,TW,1,,
+google_play,2026-07-02,monthly,freesummer,US,2,,
+google_play,2026-07-03,monthly,,US,6,,
+google_play,2026-07-03,annual,,US,1,,
+google_play,2026-07-03,monthly,,TW,1,,
+google_play,2026-07-03,monthly,freesummer,US,2,,
+google_play,2026-07-04,monthly,,US,6,,
+google_play,2026-07-04,annual,,US,1,,
+google_play,2026-07-04,monthly,,TW,1,,
+google_play,2026-07-04,monthly,freesummer,US,2,,
+google_play,2026-07-05,monthly,,US,6,,
+google_play,2026-07-05,annual,,US,1,,
+google_play,2026-07-05,monthly,,TW,1,,
+google_play,2026-07-05,monthly,freesummer,US,3,,
+google_play,2026-07-06,monthly,,US,6,,
+google_play,2026-07-06,annual,,US,1,,
+google_play,2026-07-06,monthly,,TW,1,,
+google_play,2026-07-06,monthly,freesummer,US,3,,
+google_play,2026-07-07,monthly,,US,7,,
+google_play,2026-07-07,annual,,US,1,,
+google_play,2026-07-07,monthly,,TW,1,,
+google_play,2026-07-07,monthly,freesummer,US,2,,
+google_play,2026-07-08,monthly,,US,7,,
+google_play,2026-07-08,annual,,US,1,,
+google_play,2026-07-08,monthly,,TW,1,,
+google_play,2026-07-08,monthly,freesummer,US,2,,
+google_play,2026-07-09,monthly,,US,7,,
+google_play,2026-07-09,annual,,US,1,,
+google_play,2026-07-09,monthly,,TW,1,,
+google_play,2026-07-09,monthly,freesummer,US,2,,
+google_play,2026-07-10,monthly,,US,7,,
+google_play,2026-07-10,annual,,US,1,,
+google_play,2026-07-10,monthly,,TW,1,,
+google_play,2026-07-10,monthly,freesummer,US,2,,
+google_play,2026-07-11,monthly,,US,7,,
+google_play,2026-07-11,annual,,US,1,,
+google_play,2026-07-11,monthly,,TW,1,,
+google_play,2026-07-11,monthly,freesummer,US,2,,
+google_play,2026-07-12,monthly,,US,7,,
+google_play,2026-07-12,annual,,US,1,,
+google_play,2026-07-12,monthly,,TW,1,,
+google_play,2026-07-12,monthly,freesummer,US,1,,
+google_play,2026-07-12,monthly,,DE,1,,
+google_play,2026-07-13,monthly,,US,7,,
+google_play,2026-07-13,annual,,US,1,,
+google_play,2026-07-13,monthly,,TW,1,,
+google_play,2026-07-13,monthly,freesummer,US,1,,
+google_play,2026-07-13,monthly,,DE,1,,
+google_play,2026-07-14,monthly,,US,7,,
+google_play,2026-07-14,annual,,US,1,,
+google_play,2026-07-14,monthly,,TW,1,,
+google_play,2026-07-14,monthly,freesummer,US,1,,
+google_play,2026-07-14,monthly,,DE,1,,
+google_play,2026-07-15,monthly,,US,7,,
+google_play,2026-07-15,annual,,US,1,,
+google_play,2026-07-15,monthly,,TW,1,,
+google_play,2026-07-15,monthly,freesummer,US,1,,
+google_play,2026-07-15,monthly,,DE,1,,
+google_play,2026-07-16,monthly,,US,7,,
+google_play,2026-07-16,annual,,US,1,,
+google_play,2026-07-16,monthly,,TW,1,,
+google_play,2026-07-16,monthly,freesummer,US,1,,
+google_play,2026-07-16,monthly,,DE,1,,
+google_play,2026-07-17,monthly,,US,7,,
+google_play,2026-07-17,annual,,US,1,,
+google_play,2026-07-17,monthly,,TW,1,,
+google_play,2026-07-17,monthly,freesummer,US,1,,
+google_play,2026-07-17,monthly,,DE,1,,
+google_play,2026-07-18,monthly,,US,7,,
+google_play,2026-07-18,annual,,US,1,,
+google_play,2026-07-18,monthly,,TW,1,,
+google_play,2026-07-18,monthly,freesummer,US,1,,
+google_play,2026-07-18,monthly,,DE,1,,
+google_play,2026-07-19,monthly,,US,6,,
+google_play,2026-07-19,annual,,US,1,,
+google_play,2026-07-19,monthly,,TW,1,,
+google_play,2026-07-19,monthly,freesummer,US,1,,
+google_play,2026-07-19,monthly,,DE,1,,
+google_play,2026-07-20,monthly,,US,6,,
+google_play,2026-07-20,annual,,US,1,,
+google_play,2026-07-20,monthly,,TW,1,,
+google_play,2026-07-20,monthly,freesummer,US,1,,
+google_play,2026-07-20,monthly,,DE,1,,
+google_play,2026-07-21,monthly,,US,7,,
+google_play,2026-07-21,annual,,US,1,,
+google_play,2026-07-21,monthly,,TW,1,,
+google_play,2026-07-21,monthly,freesummer,US,1,,
+google_play,2026-07-21,monthly,,DE,1,,
+google_play,2026-07-22,monthly,,US,7,,
+google_play,2026-07-22,annual,,US,1,,
+google_play,2026-07-22,monthly,,TW,1,,
+google_play,2026-07-22,monthly,freesummer,US,1,,
+google_play,2026-07-22,monthly,,DE,1,,
+google_play,2026-07-23,monthly,,US,6,,
+google_play,2026-07-23,annual,,US,1,,
+google_play,2026-07-23,monthly,,TW,1,,
+google_play,2026-07-23,monthly,freesummer,US,1,,
+google_play,2026-07-23,monthly,,DE,1,,
+google_play,2026-07-24,monthly,,US,6,,
+google_play,2026-07-24,annual,,US,1,,
+google_play,2026-07-24,monthly,,TW,1,,
+google_play,2026-07-24,monthly,freesummer,US,1,,
+google_play,2026-07-24,monthly,,DE,1,,
+google_play,2026-07-25,monthly,,US,6,,
+google_play,2026-07-25,annual,,US,1,,
+google_play,2026-07-25,monthly,,TW,1,,
+google_play,2026-07-25,monthly,freesummer,US,1,,
+google_play,2026-07-25,monthly,,DE,1,,
+google_play,2026-07-26,monthly,,US,6,,
+google_play,2026-07-26,annual,,US,1,,
+google_play,2026-07-26,monthly,,TW,1,,
+google_play,2026-07-26,monthly,freesummer,US,1,,
+google_play,2026-07-26,monthly,,DE,1,,
+google_play,2026-07-27,monthly,,US,6,,
+google_play,2026-07-27,annual,,US,1,,
+google_play,2026-07-27,monthly,,TW,1,,
+google_play,2026-07-27,monthly,freesummer,US,1,,
+google_play,2026-07-27,monthly,,DE,1,,
+google_play,2026-07-28,monthly,,US,5,,
+google_play,2026-07-28,annual,,US,1,,
+google_play,2026-07-28,monthly,,TW,1,,
+google_play,2026-07-28,monthly,freesummer,US,1,,
+google_play,2026-07-28,monthly,,DE,1,,
+google_play,2026-07-29,monthly,,US,5,,
+google_play,2026-07-29,annual,,US,1,,
+google_play,2026-07-29,monthly,,TW,1,,
+google_play,2026-07-29,monthly,freesummer,US,1,,
+google_play,2026-07-29,monthly,,DE,1,,
+google_play,2026-07-30,monthly,,US,5,,
+google_play,2026-07-30,annual,,US,1,,
+google_play,2026-07-30,monthly,,TW,1,,
+google_play,2026-07-30,monthly,freesummer,US,1,,
+google_play,2026-07-30,monthly,,DE,1,,
+google_play,2026-07-31,monthly,,US,5,,
+google_play,2026-07-31,annual,,US,1,,
+google_play,2026-07-31,monthly,,TW,1,,
+google_play,2026-07-31,monthly,freesummer,US,1,,
+google_play,2026-07-31,monthly,,DE,1,,
+google_play,2026-08-01,monthly,,US,5,,
+google_play,2026-08-01,annual,,US,1,,
+google_play,2026-08-01,monthly,,TW,1,,
+google_play,2026-08-01,monthly,freesummer,US,1,,
+google_play,2026-08-01,monthly,,DE,1,,
+google_play,2026-08-02,monthly,,US,5,,
+google_play,2026-08-02,annual,,US,1,,
+google_play,2026-08-02,monthly,,TW,1,,
+google_play,2026-08-02,monthly,freesummer,US,1,,
+google_play,2026-08-02,monthly,,DE,1,,
+google_play,2026-08-03,monthly,,US,5,,
+google_play,2026-08-03,annual,,US,1,,
+google_play,2026-08-03,monthly,,TW,1,,
+google_play,2026-08-03,monthly,freesummer,US,1,,
+google_play,2026-08-03,monthly,,DE,1,,
+google_play,2026-08-04,monthly,,US,5,,
+google_play,2026-08-04,annual,,US,1,,
+google_play,2026-08-04,monthly,,TW,1,,
+google_play,2026-08-04,monthly,freesummer,US,1,,
+google_play,2026-08-04,monthly,,DE,1,,
+google_play,2026-08-05,monthly,,US,5,,
+google_play,2026-08-05,annual,,US,1,,
+google_play,2026-08-05,monthly,,TW,1,,
+google_play,2026-08-05,monthly,freesummer,US,1,,
+google_play,2026-08-05,monthly,,DE,1,,
+google_play,2026-08-06,monthly,,US,5,,
+google_play,2026-08-06,annual,,US,1,,
+google_play,2026-08-06,monthly,,TW,1,,
+google_play,2026-08-06,monthly,freesummer,US,1,,
+google_play,2026-08-06,monthly,,DE,1,,
+google_play,2026-08-07,monthly,,US,4,,
+google_play,2026-08-07,annual,,US,1,,
+google_play,2026-08-07,monthly,,TW,1,,
+google_play,2026-08-07,monthly,freesummer,US,1,,
+google_play,2026-08-07,monthly,,DE,1,,
+google_play,2026-08-08,monthly,,US,4,,
+google_play,2026-08-08,annual,,US,1,,
+google_play,2026-08-08,monthly,,TW,1,,
+google_play,2026-08-08,monthly,freesummer,US,1,,
+google_play,2026-08-08,monthly,,DE,1,,
+google_play,2026-08-09,monthly,,US,4,,
+google_play,2026-08-09,annual,,US,1,,
+google_play,2026-08-09,monthly,,TW,1,,
+google_play,2026-08-09,monthly,freesummer,US,1,,
+google_play,2026-08-09,monthly,,DE,1,,
+google_play,2026-08-10,monthly,,US,4,,
+google_play,2026-08-10,annual,,US,1,,
+google_play,2026-08-10,monthly,,TW,1,,
+google_play,2026-08-10,monthly,,DE,1,,
+google_play,2026-08-11,monthly,,US,4,,
+google_play,2026-08-11,annual,,US,1,,
+google_play,2026-08-11,monthly,,TW,1,,
+google_play,2026-08-11,monthly,,DE,1,,
+google_play,2026-08-12,monthly,,US,3,,
+google_play,2026-08-12,annual,,US,1,,
+google_play,2026-08-12,monthly,,TW,1,,
+google_play,2026-08-12,monthly,,DE,1,,
+google_play,2026-08-13,monthly,,US,3,,
+google_play,2026-08-13,annual,,US,1,,
+google_play,2026-08-13,monthly,,TW,1,,
+google_play,2026-08-13,monthly,,DE,1,,
+google_play,2026-08-14,monthly,,US,3,,
+google_play,2026-08-14,annual,,US,1,,
+google_play,2026-08-14,monthly,,TW,1,,
+google_play,2026-08-14,monthly,,DE,1,,
+google_play,2026-08-15,monthly,,US,3,,
+google_play,2026-08-15,annual,,US,1,,
+google_play,2026-08-15,monthly,,TW,1,,
+google_play,2026-08-15,monthly,,DE,1,,
+google_play,2026-08-16,monthly,,US,3,,
+google_play,2026-08-16,annual,,US,1,,
+google_play,2026-08-16,monthly,,TW,1,,
+google_play,2026-08-16,monthly,,DE,1,,
+google_play,2026-08-17,monthly,,US,3,,
+google_play,2026-08-17,annual,,US,1,,
+google_play,2026-08-17,monthly,,TW,1,,
+google_play,2026-08-17,monthly,,DE,1,,
+google_play,2026-08-18,monthly,,US,3,,
+google_play,2026-08-18,annual,,US,1,,
+google_play,2026-08-18,monthly,,TW,1,,
+google_play,2026-08-18,monthly,,DE,1,,
+google_play,2026-08-19,monthly,,US,3,,
+google_play,2026-08-19,annual,,US,1,,
+google_play,2026-08-19,monthly,,TW,1,,
+google_play,2026-08-19,monthly,,DE,1,,
+google_play,2026-08-20,monthly,,US,3,,
+google_play,2026-08-20,annual,,US,1,,
+google_play,2026-08-20,monthly,,TW,1,,
+google_play,2026-08-20,monthly,,DE,1,,
+google_play,2026-08-21,monthly,,US,2,,
+google_play,2026-08-21,annual,,US,1,,
+google_play,2026-08-21,monthly,,TW,1,,
+google_play,2026-08-21,monthly,,DE,1,,
+google_play,2026-08-22,monthly,,US,2,,
+google_play,2026-08-22,annual,,US,1,,
+google_play,2026-08-22,monthly,,TW,1,,
+google_play,2026-08-22,monthly,,DE,1,,
+google_play,2026-08-23,monthly,,US,2,,
+google_play,2026-08-23,annual,,US,1,,
+google_play,2026-08-23,monthly,,TW,1,,
+google_play,2026-08-23,monthly,,DE,1,,
+google_play,2026-08-24,monthly,,US,2,,
+google_play,2026-08-24,annual,,US,1,,
+google_play,2026-08-24,monthly,,TW,1,,
+google_play,2026-08-24,monthly,,DE,1,,
+google_play,2026-08-25,monthly,,US,2,,
+google_play,2026-08-25,annual,,US,1,,
+google_play,2026-08-25,monthly,,TW,1,,
+google_play,2026-08-25,monthly,,DE,1,,
+google_play,2026-08-26,monthly,,US,2,,
+google_play,2026-08-26,annual,,US,1,,
+google_play,2026-08-26,monthly,,TW,1,,
+google_play,2026-08-26,monthly,,DE,1,,
+google_play,2026-08-27,monthly,,US,2,,
+google_play,2026-08-27,annual,,US,1,,
+google_play,2026-08-27,monthly,,TW,1,,
+google_play,2026-08-27,monthly,,DE,1,,
+google_play,2026-08-28,monthly,,US,2,,
+google_play,2026-08-28,annual,,US,1,,
+google_play,2026-08-28,monthly,,TW,1,,
+google_play,2026-08-28,monthly,,DE,1,,
+google_play,2026-08-29,monthly,,US,2,,
+google_play,2026-08-29,annual,,US,1,,
+google_play,2026-08-29,monthly,,TW,1,,
+google_play,2026-08-29,monthly,,DE,1,,
+google_play,2026-08-30,monthly,,US,2,,
+google_play,2026-08-30,annual,,US,1,,
+google_play,2026-08-30,monthly,,TW,1,,
+google_play,2026-08-30,monthly,,DE,1,,
+google_play,2026-08-31,monthly,,US,2,,
+google_play,2026-08-31,annual,,US,1,,
+google_play,2026-08-31,monthly,,TW,1,,
+google_play,2026-08-31,monthly,,DE,1,,
+google_play,2026-09-01,monthly,,US,2,,
+google_play,2026-09-01,annual,,US,1,,
+google_play,2026-09-01,monthly,,TW,1,,
+google_play,2026-09-01,monthly,,DE,1,,
+google_play,2026-09-02,monthly,,US,2,,
+google_play,2026-09-02,annual,,US,1,,
+google_play,2026-09-02,monthly,,TW,1,,
+google_play,2026-09-02,monthly,,DE,1,,
+google_play,2026-09-03,monthly,,US,2,,
+google_play,2026-09-03,annual,,US,1,,
+google_play,2026-09-03,monthly,,TW,1,,
+google_play,2026-09-03,monthly,,DE,1,,
+google_play,2026-09-03,monthly,freesummer,AU,1,,
+google_play,2026-09-04,monthly,,US,2,,
+google_play,2026-09-04,annual,,US,1,,
+google_play,2026-09-04,monthly,,TW,1,,
+google_play,2026-09-04,monthly,,DE,1,,
+google_play,2026-09-04,monthly,freesummer,AU,1,,
+google_play,2026-09-05,monthly,,US,2,,
+google_play,2026-09-05,annual,,US,1,,
+google_play,2026-09-05,monthly,,TW,1,,
+google_play,2026-09-05,monthly,,DE,1,,
+google_play,2026-09-05,monthly,freesummer,AU,1,,
+google_play,2026-09-06,monthly,,US,2,,
+google_play,2026-09-06,annual,,US,1,,
+google_play,2026-09-06,monthly,,TW,1,,
+google_play,2026-09-06,monthly,,DE,1,,
+google_play,2026-09-06,monthly,freesummer,AU,1,,
+google_play,2026-09-06,monthly,freesummer,US,2,,
+google_play,2026-09-07,monthly,,US,2,,
+google_play,2026-09-07,annual,,US,1,,
+google_play,2026-09-07,monthly,,TW,1,,
+google_play,2026-09-07,monthly,,DE,1,,
+google_play,2026-09-07,monthly,freesummer,AU,1,,
+google_play,2026-09-07,monthly,freesummer,US,2,,
+google_play,2026-09-08,monthly,,US,2,,
+google_play,2026-09-08,annual,,US,1,,
+google_play,2026-09-08,monthly,,TW,1,,
+google_play,2026-09-08,monthly,,DE,1,,
+google_play,2026-09-08,monthly,freesummer,AU,1,,
+google_play,2026-09-08,monthly,freesummer,US,2,,
+google_play,2026-09-09,monthly,,US,2,,
+google_play,2026-09-09,annual,,US,1,,
+google_play,2026-09-09,monthly,,TW,1,,
+google_play,2026-09-09,monthly,,DE,1,,
+google_play,2026-09-09,monthly,freesummer,AU,1,,
+google_play,2026-09-09,monthly,freesummer,US,2,,
+google_play,2026-09-10,monthly,,US,2,,
+google_play,2026-09-10,annual,,US,1,,
+google_play,2026-09-10,monthly,,TW,1,,
+google_play,2026-09-10,monthly,,DE,1,,
+google_play,2026-09-10,monthly,freesummer,US,2,,
+google_play,2026-09-10,monthly,freesummer,TW,1,,
+google_play,2026-09-11,monthly,,US,2,,
+google_play,2026-09-11,annual,,US,1,,
+google_play,2026-09-11,monthly,,TW,1,,
+google_play,2026-09-11,monthly,,DE,1,,
+google_play,2026-09-11,monthly,freesummer,US,2,,
+google_play,2026-09-11,monthly,freesummer,TW,1,,
+google_play,2026-09-12,monthly,,US,2,,
+google_play,2026-09-12,annual,,US,1,,
+google_play,2026-09-12,monthly,,TW,1,,
+google_play,2026-09-12,monthly,freesummer,US,2,,
+google_play,2026-09-12,monthly,freesummer,TW,1,,
+google_play,2026-09-13,monthly,,US,2,,
+google_play,2026-09-13,annual,,US,1,,
+google_play,2026-09-13,monthly,,TW,1,,
+google_play,2026-09-13,monthly,freesummer,TW,1,,
+google_play,2026-09-14,monthly,,US,2,,
+google_play,2026-09-14,annual,,US,1,,
+google_play,2026-09-14,monthly,freesummer,TW,1,,
+google_play,2026-09-14,monthly,freesummer,US,1,,
+google_play,2026-09-15,monthly,,US,2,,
+google_play,2026-09-15,annual,,US,1,,
+google_play,2026-09-15,monthly,freesummer,TW,1,,
+google_play,2026-09-15,monthly,freesummer,US,1,,
+google_play,2026-09-16,monthly,,US,2,,
+google_play,2026-09-16,annual,,US,1,,
+google_play,2026-09-16,monthly,freesummer,TW,1,,
+google_play,2026-09-16,monthly,freesummer,US,1,,
+google_play,2026-09-17,monthly,,US,2,,
+google_play,2026-09-17,annual,,US,1,,
+google_play,2026-09-17,monthly,freesummer,US,1,,
+google_play,2026-09-18,monthly,,US,2,,
+google_play,2026-09-18,annual,,US,1,,
+google_play,2026-09-18,monthly,freesummer,US,1,,
+google_play,2026-09-19,annual,,US,1,,
+google_play,2026-09-19,monthly,,US,1,,
+google_play,2026-09-19,monthly,freesummer,US,1,,
+google_play,2026-09-20,annual,,US,1,,
+google_play,2026-09-20,monthly,,US,1,,
+google_play,2026-09-20,monthly,freesummer,US,1,,
+google_play,2026-09-21,annual,,US,1,,
+google_play,2026-09-21,monthly,,US,1,,
+google_play,2026-09-22,annual,,US,1,,
+google_play,2026-09-22,monthly,,US,1,,
+google_play,2026-09-23,annual,,US,1,,
+google_play,2026-09-23,monthly,,US,1,,
+google_play,2026-09-24,annual,,US,1,,
+google_play,2026-09-24,monthly,,US,1,,
+google_play,2026-09-25,annual,,US,1,,
+google_play,2026-09-25,monthly,,US,1,,
+google_play,2026-09-25,monthly,freesummer,US,1,,
+google_play,2026-09-26,annual,,US,1,,
+google_play,2026-09-26,monthly,,US,1,,
+google_play,2026-09-26,monthly,freesummer,US,1,,
+google_play,2026-09-27,annual,,US,1,,
+google_play,2026-09-27,monthly,freesummer,US,1,,
+google_play,2026-09-28,annual,,US,1,,
+google_play,2026-09-28,monthly,freesummer,US,1,,
+google_play,2026-09-29,annual,,US,1,,
+google_play,2026-09-29,monthly,freesummer,US,1,,
+google_play,2026-09-30,annual,,US,1,,
+google_play,2026-09-30,monthly,freesummer,US,1,,
+google_play,2026-10-01,annual,,US,1,,
+google_play,2026-10-01,monthly,freesummer,US,1,,
+google_play,2026-10-02,annual,,US,1,,
+google_play,2026-10-03,annual,,US,1,,
+google_play,2026-10-03,monthly,freesummer,EE,1,,
+google_play,2026-10-03,monthly,freesummer,GB,1,,
+google_play,2026-10-04,annual,,US,1,,
+google_play,2026-10-04,monthly,freesummer,EE,1,,
+google_play,2026-10-04,monthly,freesummer,GB,1,,
+google_play,2026-10-04,monthly,freesummer,US,3,,
+google_play,2026-10-05,annual,,US,1,,
+google_play,2026-10-05,monthly,freesummer,EE,1,,
+google_play,2026-10-05,monthly,freesummer,GB,1,,
+google_play,2026-10-05,monthly,freesummer,US,3,,
+google_play,2026-10-06,annual,,US,1,,
+google_play,2026-10-06,monthly,freesummer,EE,1,,
+google_play,2026-10-06,monthly,freesummer,GB,1,,
+google_play,2026-10-06,monthly,freesummer,US,3,,
+google_play,2026-10-07,annual,,US,1,,
+google_play,2026-10-07,monthly,freesummer,EE,1,,
+google_play,2026-10-07,monthly,freesummer,GB,1,,
+google_play,2026-10-07,monthly,freesummer,US,3,,
+google_play,2026-10-08,annual,,US,1,,
+google_play,2026-10-08,monthly,freesummer,EE,1,,
+google_play,2026-10-08,monthly,freesummer,GB,1,,
+google_play,2026-10-08,monthly,freesummer,US,3,,
+google_play,2026-10-09,annual,,US,1,,
+google_play,2026-10-09,monthly,freesummer,EE,1,,
+google_play,2026-10-09,monthly,freesummer,GB,1,,
+google_play,2026-10-09,monthly,freesummer,US,3,,
+google_play,2026-10-10,annual,,US,1,,
+google_play,2026-10-10,monthly,freesummer,EE,1,,
+google_play,2026-10-10,monthly,freesummer,GB,1,,
+google_play,2026-10-10,monthly,freesummer,US,3,,
+google_play,2026-10-11,annual,,US,1,,
+google_play,2026-10-11,monthly,freesummer,EE,1,,
+google_play,2026-10-11,monthly,freesummer,GB,2,,
+google_play,2026-10-11,monthly,freesummer,US,6,,
+google_play,2026-10-12,annual,,US,1,,
+google_play,2026-10-12,monthly,freesummer,EE,1,,
+google_play,2026-10-12,monthly,freesummer,GB,2,,
+google_play,2026-10-12,monthly,freesummer,US,6,,
+google_play,2026-10-13,annual,,US,1,,
+google_play,2026-10-13,monthly,freesummer,EE,1,,
+google_play,2026-10-13,monthly,freesummer,GB,2,,
+google_play,2026-10-13,monthly,freesummer,US,6,,
+google_play,2026-10-14,annual,,US,1,,
+google_play,2026-10-14,monthly,freesummer,EE,1,,
+google_play,2026-10-14,monthly,freesummer,GB,2,,
+google_play,2026-10-14,monthly,freesummer,US,6,,
+google_play,2026-10-15,annual,,US,1,,
+google_play,2026-10-15,monthly,freesummer,EE,1,,
+google_play,2026-10-15,monthly,freesummer,GB,2,,
+google_play,2026-10-15,monthly,freesummer,US,7,,
+google_play,2026-10-16,annual,,US,1,,
+google_play,2026-10-16,monthly,freesummer,EE,1,,
+google_play,2026-10-16,monthly,freesummer,GB,2,,
+google_play,2026-10-16,monthly,freesummer,US,7,,
+google_play,2026-10-17,annual,,US,1,,
+google_play,2026-10-17,monthly,freesummer,EE,1,,
+google_play,2026-10-17,monthly,freesummer,GB,2,,
+google_play,2026-10-17,monthly,freesummer,US,7,,
+google_play,2026-10-18,annual,,US,1,,
+google_play,2026-10-18,monthly,freesummer,EE,1,,
+google_play,2026-10-18,monthly,freesummer,GB,2,,
+google_play,2026-10-18,monthly,freesummer,US,8,,
+google_play,2026-10-19,annual,,US,1,,
+google_play,2026-10-19,monthly,freesummer,EE,1,,
+google_play,2026-10-19,monthly,freesummer,GB,2,,
+google_play,2026-10-19,monthly,freesummer,US,8,,
+google_play,2026-10-20,annual,,US,1,,
+google_play,2026-10-20,monthly,freesummer,EE,1,,
+google_play,2026-10-20,monthly,freesummer,GB,2,,
+google_play,2026-10-20,monthly,freesummer,US,9,,
+google_play,2026-10-21,annual,,US,1,,
+google_play,2026-10-21,monthly,freesummer,EE,1,,
+google_play,2026-10-21,monthly,freesummer,GB,2,,
+google_play,2026-10-21,monthly,freesummer,US,9,,
+google_play,2026-10-22,annual,,US,1,,
+google_play,2026-10-22,monthly,freesummer,EE,1,,
+google_play,2026-10-22,monthly,freesummer,GB,2,,
+google_play,2026-10-22,monthly,freesummer,US,8,,
+google_play,2026-10-23,annual,,US,1,,
+google_play,2026-10-23,monthly,freesummer,EE,1,,
+google_play,2026-10-23,monthly,freesummer,GB,2,,
+google_play,2026-10-23,monthly,freesummer,US,8,,
+google_play,2026-10-24,annual,,US,1,,
+google_play,2026-10-24,monthly,freesummer,EE,1,,
+google_play,2026-10-24,monthly,freesummer,GB,2,,
+google_play,2026-10-24,monthly,freesummer,US,8,,
+google_play,2026-10-25,annual,,US,1,,
+google_play,2026-10-25,monthly,freesummer,EE,1,,
+google_play,2026-10-25,monthly,freesummer,GB,2,,
+google_play,2026-10-25,monthly,freesummer,US,7,,
+google_play,2026-10-26,annual,,US,1,,
+google_play,2026-10-26,monthly,freesummer,EE,1,,
+google_play,2026-10-26,monthly,freesummer,GB,2,,
+google_play,2026-10-26,monthly,freesummer,US,7,,
+google_play,2026-10-27,annual,,US,1,,
+google_play,2026-10-27,monthly,freesummer,EE,1,,
+google_play,2026-10-27,monthly,freesummer,GB,2,,
+google_play,2026-10-27,monthly,freesummer,US,6,,
+google_play,2026-10-28,annual,,US,1,,
+google_play,2026-10-28,monthly,freesummer,EE,1,,
+google_play,2026-10-28,monthly,freesummer,GB,2,,
+google_play,2026-10-28,monthly,freesummer,US,7,,
+google_play,2026-10-29,annual,,US,1,,
+google_play,2026-10-29,monthly,freesummer,EE,1,,
+google_play,2026-10-29,monthly,freesummer,GB,2,,
+google_play,2026-10-29,monthly,freesummer,US,7,,
+google_play,2026-10-30,annual,,US,1,,
+google_play,2026-10-30,monthly,freesummer,EE,1,,
+google_play,2026-10-30,monthly,freesummer,GB,2,,
+google_play,2026-10-30,monthly,freesummer,US,7,,
+google_play,2026-10-31,monthly,freesummer,US,1,,

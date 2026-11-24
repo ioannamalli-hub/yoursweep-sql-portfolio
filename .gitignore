@@ -1,0 +1,12 @@
+# Built locally, rebuild with sql/build_db.py
+*.db
+__pycache__/
+.DS_Store
+
+# Never publish real store data or keys
+private/
+*.p8
+*.pem
+*.pptx
+*_real*
+combined/

@@ -1,0 +1,178 @@
+store,date,event,plan,offer,offer_type,country,quantity,paid_periods_so_far,original_start_date,days_before_canceling,cancellation_reason,original_event_name
+google_play,2026-01-02,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+google_play,2026-01-04,new_paid_subscription,monthly,,,EE,1,,,,,New Subscriptions
+google_play,2026-01-09,cancel,monthly,,,GB,1,,,,,Cancelled Subscriptions
+google_play,2026-01-09,new_paid_subscription,monthly,,,GB,1,,,,,New Subscriptions
+google_play,2026-01-09,new_paid_subscription,monthly,,,SE,1,,,,,New Subscriptions
+google_play,2026-01-16,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+google_play,2026-01-18,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+google_play,2026-01-19,new_paid_subscription,monthly,,,US,3,,,,,New Subscriptions
+google_play,2026-01-20,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+google_play,2026-01-21,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+google_play,2026-01-23,new_paid_subscription,monthly,,,SE,1,,,,,New Subscriptions
+google_play,2026-01-23,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+google_play,2026-01-25,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+google_play,2026-01-28,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+google_play,2026-02-04,cancel,monthly,,,EE,1,,,,,Cancelled Subscriptions
+google_play,2026-02-09,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+google_play,2026-02-13,new_paid_subscription,monthly,,,FR,1,,,,,New Subscriptions
+google_play,2026-02-16,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+google_play,2026-02-17,new_paid_subscription,annual,,,US,1,,,,,New Subscriptions
+google_play,2026-02-19,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+google_play,2026-02-20,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+google_play,2026-02-21,cancel,monthly,,,US,2,,,,,Cancelled Subscriptions
+google_play,2026-02-23,cancel,monthly,,,SE,1,,,,,Cancelled Subscriptions
+google_play,2026-02-25,new_paid_subscription,monthly,,,DE,1,,,,,New Subscriptions
+google_play,2026-03-03,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+google_play,2026-03-09,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+google_play,2026-03-19,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+google_play,2026-03-20,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+google_play,2026-03-20,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+google_play,2026-03-21,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+google_play,2026-03-25,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+google_play,2026-03-25,cancel,monthly,,,DE,1,,,,,Cancelled Subscriptions
+google_play,2026-03-28,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+google_play,2026-04-09,cancel,monthly,,,SE,1,,,,,Cancelled Subscriptions
+google_play,2026-04-13,cancel,monthly,,,FR,1,,,,,Cancelled Subscriptions
+google_play,2026-04-18,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+google_play,2026-04-23,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+google_play,2026-05-12,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+google_play,2026-05-16,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+google_play,2026-05-22,cancel,monthly,,,GB,1,,,,,Cancelled Subscriptions
+google_play,2026-05-22,new_paid_subscription,monthly,,,GB,1,,,,,New Subscriptions
+apple,2026-05-27,new_paid_subscription,annual,,,US,1,1,2026-05-27,,,Subscribe
+apple,2026-05-30,new_paid_subscription,monthly,,,US,1,1,2026-05-30,,,Subscribe
+apple,2026-06-01,free_trial_start,monthly,One Month,Free Trial,TW,1,1,2026-06-01,,,Start Offer Code
+apple,2026-06-01,free_trial_start,monthly,One Month,Free Trial,US,1,1,2026-06-01,,,Start Offer Code
+google_play,2026-06-01,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+apple,2026-06-02,new_paid_subscription,monthly,,,US,1,1,2026-06-02,,,Subscribe
+google_play,2026-06-02,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+google_play,2026-06-03,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+apple,2026-06-07,new_paid_subscription,monthly,,,US,1,1,2026-06-07,,,Subscribe
+apple,2026-06-08,cancel,monthly,One Month,Free Trial,TW,1,1,2026-06-01,0,Canceled,Cancel
+apple,2026-06-08,cancel,monthly,One Month,Free Trial,US,1,1,2026-06-01,0,Canceled,Cancel
+apple,2026-06-09,free_trial_start,monthly,One Month,Free Trial,US,1,1,2026-06-09,,,Start Offer Code
+apple,2026-06-10,free_trial_start,monthly,One Month,Free Trial,FR,1,1,2026-06-10,,,Start Offer Code
+apple,2026-06-14,free_trial_start,monthly,One Month,Free Trial,CA,1,1,2026-06-14,,,Start Offer Code
+apple,2026-06-14,new_paid_subscription,annual,,,US,1,1,2026-06-14,,,Subscribe
+google_play,2026-06-14,new_paid_subscription,monthly,,,TW,1,,,,,New Subscriptions
+apple,2026-06-16,cancel,monthly,One Month,Free Trial,US,1,1,2026-06-09,0,Canceled,Cancel
+apple,2026-06-16,new_paid_subscription,monthly,,,SE,1,1,2026-06-16,,,Subscribe
+google_play,2026-06-16,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+apple,2026-06-17,free_trial_start,monthly,One Month,Free Trial,US,1,1,2026-06-17,,,Start Offer Code
+apple,2026-06-17,trial_converted_to_paid,monthly,One Month,Free Trial,FR,1,2,2026-06-10,,,Paid Subscription from Offer Code
+apple,2026-06-18,free_trial_start,monthly,One Month,Free Trial,US,1,1,2026-06-18,,,Start Offer Code
+google_play,2026-06-19,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+apple,2026-06-20,new_paid_subscription,annual,,,GB,1,1,2026-06-20,,,Subscribe
+apple,2026-06-21,cancel,monthly,One Month,Free Trial,CA,1,1,2026-06-14,0,Canceled,Cancel
+google_play,2026-06-23,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+apple,2026-06-24,cancel,monthly,One Month,Free Trial,US,1,1,2026-06-17,0,Canceled,Cancel
+apple,2026-06-24,new_paid_subscription,annual,,,US,1,1,2026-06-24,,,Subscribe
+apple,2026-06-25,cancel,monthly,One Month,Free Trial,US,1,1,2026-06-18,0,Canceled,Cancel
+google_play,2026-06-26,free_trial_start,monthly,freesummer,,US,1,,,,,New Subscriptions
+google_play,2026-06-27,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+apple,2026-06-28,renewal,monthly,,,US,1,2,2026-05-30,,,Renew
+google_play,2026-06-29,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+google_play,2026-06-29,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+apple,2026-06-30,free_trial_start,monthly,One Month,Free Trial,US,1,1,2026-06-30,,,Start Offer Code
+google_play,2026-06-30,free_trial_start,monthly,freesummer,,US,1,,,,,New Subscriptions
+google_play,2026-07-01,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+apple,2026-07-02,new_paid_subscription,monthly,,,US,1,1,2026-07-02,,,Subscribe
+apple,2026-07-03,cancel,monthly,,,US,1,1,2026-06-02,0,Canceled,Cancel
+google_play,2026-07-03,cancel,monthly,freesummer,,US,1,,,,,Cancelled Subscriptions
+google_play,2026-07-03,free_trial_start,monthly,freesummer,,US,1,,,,,New Subscriptions
+apple,2026-07-04,free_trial_start,monthly,One Month,Free Trial,US,1,1,2026-07-04,,,Start Offer Code
+google_play,2026-07-05,free_trial_start,monthly,freesummer,,US,1,,,,,New Subscriptions
+apple,2026-07-07,trial_converted_to_paid,monthly,One Month,Free Trial,US,1,2,2026-06-30,,,Paid Subscription from Offer Code
+google_play,2026-07-07,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+apple,2026-07-08,new_paid_subscription,monthly,,,US,1,1,2026-07-08,,,Subscribe
+google_play,2026-07-08,cancel,monthly,freesummer,,US,1,,,,,Cancelled Subscriptions
+apple,2026-07-09,cancel,monthly,,,US,1,1,2026-06-07,0,Canceled,Cancel
+apple,2026-07-10,new_paid_subscription,annual,,,US,1,1,2026-07-10,,,Subscribe
+apple,2026-07-11,cancel,monthly,One Month,Free Trial,US,1,1,2026-07-04,0,Canceled,Cancel
+apple,2026-07-12,new_paid_subscription,annual,,,US,1,1,2026-07-12,,,Subscribe
+google_play,2026-07-12,cancel,monthly,freesummer,,US,1,,,,,Cancelled Subscriptions
+google_play,2026-07-12,new_paid_subscription,monthly,,,DE,1,,,,,New Subscriptions
+apple,2026-07-16,cancel,monthly,,,SE,1,1,2026-06-16,0,Canceled,Cancel
+apple,2026-07-16,new_paid_subscription,annual,,,US,1,1,2026-07-16,,,Subscribe
+apple,2026-07-17,renewal,monthly,One Month,Free Trial,FR,1,2,2026-06-10,,,Renew
+apple,2026-07-18,new_paid_subscription,annual,,,US,1,1,2026-07-18,,,Subscribe
+google_play,2026-07-19,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+apple,2026-07-20,new_paid_subscription,monthly,,,US,1,1,2026-07-20,,,Subscribe
+google_play,2026-07-21,new_paid_subscription,monthly,,,US,1,,,,,New Subscriptions
+google_play,2026-07-23,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+apple,2026-07-26,free_trial_start,monthly,One Month,Free Trial,SE,1,1,2026-07-26,,,Start Offer Code
+apple,2026-07-26,new_paid_subscription,annual,,,SE,1,1,2026-07-26,,,Subscribe
+apple,2026-07-28,cancel,monthly,,,US,1,2,2026-05-30,0,Canceled,Cancel
+apple,2026-08-02,cancel,monthly,One Month,Free Trial,SE,1,1,2026-07-26,0,Canceled,Cancel
+apple,2026-08-02,renewal,monthly,,,US,1,2,2026-07-02,,,Renew
+apple,2026-08-07,new_paid_subscription,annual,,,US,1,1,2026-08-07,,,Subscribe
+apple,2026-08-07,renewal,monthly,One Month,Free Trial,US,1,2,2026-06-30,,,Renew
+google_play,2026-08-07,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+apple,2026-08-08,cancel,monthly,,,US,1,1,2026-07-08,0,Canceled,Cancel
+google_play,2026-08-10,cancel,monthly,freesummer,,US,1,,,,,Cancelled Subscriptions
+apple,2026-08-11,free_trial_start,monthly,One Month,Free Trial,US,2,1,2026-08-11,,,Start Offer Code
+google_play,2026-08-12,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+apple,2026-08-15,free_trial_start,monthly,One Month,Free Trial,US,1,1,2026-08-15,,,Start Offer Code
+apple,2026-08-17,cancel,monthly,One Month,Free Trial,FR,1,2,2026-06-10,0,Canceled,Cancel
+apple,2026-08-18,cancel,monthly,One Month,Free Trial,US,2,1,2026-08-11,0,Canceled,Cancel
+apple,2026-08-20,renewal,monthly,,,US,1,2,2026-07-20,,,Renew
+google_play,2026-08-21,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+apple,2026-08-22,free_trial_start,monthly,One Month,Free Trial,US,1,1,2026-08-22,,,Start Offer Code
+apple,2026-08-22,trial_converted_to_paid,monthly,One Month,Free Trial,US,1,2,2026-08-15,,,Paid Subscription from Offer Code
+apple,2026-08-24,free_trial_start,monthly,One Month,Free Trial,US,1,1,2026-08-24,,,Start Offer Code
+apple,2026-08-29,cancel,monthly,One Month,Free Trial,US,1,1,2026-08-22,0,Canceled,Cancel
+apple,2026-08-31,cancel,monthly,One Month,Free Trial,US,1,1,2026-08-24,0,Canceled,Cancel
+apple,2026-09-02,renewal,monthly,,,US,1,3,2026-07-02,,,Renew
+google_play,2026-09-03,free_trial_start,monthly,freesummer,,AU,1,,,,,New Subscriptions
+google_play,2026-09-06,free_trial_start,monthly,freesummer,,US,2,,,,,New Subscriptions
+apple,2026-09-07,renewal,monthly,One Month,Free Trial,US,1,3,2026-06-30,,,Renew
+google_play,2026-09-10,cancel,monthly,freesummer,,AU,1,,,,,Cancelled Subscriptions
+google_play,2026-09-10,free_trial_start,monthly,freesummer,,TW,1,,,,,New Subscriptions
+google_play,2026-09-12,cancel,monthly,,,DE,1,,,,,Cancelled Subscriptions
+google_play,2026-09-13,cancel,monthly,freesummer,,US,2,,,,,Cancelled Subscriptions
+google_play,2026-09-14,cancel,monthly,,,TW,1,,,,,Cancelled Subscriptions
+google_play,2026-09-14,free_trial_start,monthly,freesummer,,US,1,,,,,New Subscriptions
+google_play,2026-09-17,cancel,monthly,freesummer,,TW,1,,,,,Cancelled Subscriptions
+google_play,2026-09-19,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+apple,2026-09-20,cancel,monthly,,,US,1,2,2026-07-20,0,Canceled,Cancel
+google_play,2026-09-21,cancel,monthly,freesummer,,US,1,,,,,Cancelled Subscriptions
+apple,2026-09-22,cancel,monthly,One Month,Free Trial,US,1,1,2026-08-15,0,Canceled,Cancel
+google_play,2026-09-25,free_trial_start,monthly,freesummer,,US,1,,,,,New Subscriptions
+google_play,2026-09-27,cancel,monthly,,,US,1,,,,,Cancelled Subscriptions
+apple,2026-10-02,cancel,monthly,,,US,1,3,2026-07-02,8,Canceled,Cancel
+google_play,2026-10-02,cancel,monthly,freesummer,,US,1,,,,,Cancelled Subscriptions
+google_play,2026-10-03,free_trial_start,monthly,freesummer,,EE,1,,,,,New Subscriptions
+google_play,2026-10-03,free_trial_start,monthly,freesummer,,GB,1,,,,,New Subscriptions
+apple,2026-10-04,new_paid_subscription,monthly,,,US,1,1,2026-10-04,,,Subscribe
+google_play,2026-10-04,free_trial_start,monthly,freesummer,,US,3,,,,,New Subscriptions
+apple,2026-10-06,refund,monthly,,,US,1,1,2026-10-04,,Canceled,Refund
+apple,2026-10-07,renewal,monthly,One Month,Free Trial,US,1,4,2026-06-30,,,Renew
+apple,2026-10-11,new_paid_subscription,monthly,,,US,1,1,2026-10-11,,,Subscribe
+google_play,2026-10-11,free_trial_start,monthly,freesummer,,US,3,,,,,New Subscriptions
+google_play,2026-10-11,free_trial_start,monthly,freesummer,,GB,1,,,,,New Subscriptions
+apple,2026-10-14,new_paid_subscription,monthly,,,US,1,1,2026-10-14,,,Subscribe
+google_play,2026-10-15,free_trial_start,monthly,freesummer,,US,1,,,,,New Subscriptions
+apple,2026-10-18,new_paid_subscription,annual,,,TW,1,1,2026-10-18,,,Subscribe
+google_play,2026-10-18,free_trial_start,monthly,freesummer,,US,1,,,,,New Subscriptions
+apple,2026-10-20,new_paid_subscription,monthly,,,US,1,1,2026-10-20,,,Subscribe
+google_play,2026-10-20,free_trial_start,monthly,freesummer,,US,1,,,,,New Subscriptions
+apple,2026-10-21,free_trial_start,annual,Evacode,Free Trial,US,1,1,2026-10-21,,,Start Offer Code
+apple,2026-10-21,new_paid_subscription,monthly,,,US,1,1,2026-10-21,,,Subscribe
+google_play,2026-10-22,cancel,monthly,freesummer,,US,1,,,,,Cancelled Subscriptions
+apple,2026-10-23,free_trial_start,annual,Evacode,Free Trial,US,1,1,2026-10-23,,,Start Offer Code
+apple,2026-10-25,new_paid_subscription,annual,,,US,1,1,2026-10-25,,,Subscribe
+apple,2026-10-25,new_paid_subscription,monthly,,,EE,1,1,2026-10-25,,,Subscribe
+google_play,2026-10-25,cancel,monthly,freesummer,,US,1,,,,,Cancelled Subscriptions
+apple,2026-10-26,free_trial_start,annual,Evacode,Free Trial,US,1,1,2026-10-26,,,Start Offer Code
+apple,2026-10-26,new_paid_subscription,annual,,,US,1,1,2026-10-26,,,Subscribe
+apple,2026-10-27,free_trial_start,annual,Evacode,Free Trial,US,1,1,2026-10-27,,,Start Offer Code
+apple,2026-10-27,new_paid_subscription,monthly,,,US,1,1,2026-10-27,,,Subscribe
+google_play,2026-10-27,cancel,monthly,freesummer,,US,1,,,,,Cancelled Subscriptions
+apple,2026-10-28,new_paid_subscription,monthly,,,US,1,1,2026-10-28,,,Subscribe
+google_play,2026-10-28,free_trial_start,monthly,freesummer,,US,1,,,,,New Subscriptions
+apple,2026-10-29,new_paid_subscription,annual,,,CA,1,1,2026-10-29,,,Subscribe
+apple,2026-10-29,new_paid_subscription,annual,,,US,1,1,2026-10-29,,,Subscribe
+apple,2026-10-30,free_trial_start,annual,Evacode,Free Trial,US,1,1,2026-10-30,,,Start Offer Code
+apple,2026-10-30,new_paid_subscription,annual,,,US,1,1,2026-10-30,,,Subscribe
+google_play,2026-10-31,free_trial_start,monthly,freesummer,,US,1,,,,,New Subscriptions
